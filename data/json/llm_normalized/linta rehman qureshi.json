@@ -1,0 +1,67 @@
+{
+  "filename": "Linta rehman qureshi (1)-1.pdf",
+  "name": "Linta Rehman Qureshi",
+  "email": "lintarehman121@gmail.com",
+  "phone": "03330405299",
+  "linkedin": "https://www.linkedin.com/in/linta-rehman-a5663a305",
+  "github": "",
+  "certificates": [],
+  "skills": [
+    "Python",
+    "Flutter",
+    "Django REST Framework",
+    "HTML",
+    "CSS",
+    "JavaScript",
+    "SQLite",
+    "Firebase"
+  ],
+  "tools": [
+    "Django REST Framework",
+    "Flutter",
+    "Firebase",
+    "SQLite"
+  ],
+  "technologies": [
+    "Python",
+    "Flutter",
+    "Django REST Framework",
+    "HTML",
+    "CSS",
+    "JavaScript",
+    "SQLite",
+    "Firebase"
+  ],
+  "certifications": [
+    "Python for Cyber Security",
+    "Flutter Application Authorized"
+  ],
+  "projects": [
+    {
+      "title": "Interactify",
+      "description": "Developed a social media platform with a focus on user empowerment and security, integrating features such as Collaboration Episodes, Face Authentication, Stories with storytelling capabilities, and DM Group Functionality. Utilized Django REST Framework for backend development and Flutter for creating a responsive cross-platform user interface."
+    },
+    {
+      "title": "Cricket Win Predictor",
+      "description": "Leveraged Python and data science libraries to develop a model for predicting cricket match outcomes. Analyzed historical datasets of over 100,000 rows for pattern recognition and insights."
+    },
+    {
+      "title": "Game Store Mobile Application",
+      "description": "Designed and built a cross-platform app for online game sales using Flutter and Firebase. Implemented user authentication and real-time database functionalities."
+    },
+    {
+      "title": "Hospital Networking Topology",
+      "description": "Engineered a hospital networking topology featuring dynamic routing to interconnect the main branch with its sub-branches. Focused on optimizing communication and data transfer efficiency between various departments, demonstrating skills in network design and management."
+    }
+  ],
+  "education": [
+    {
+      "degree": "BS Computer Science",
+      "field": "Computer Science",
+      "institute": "Riphah International University",
+      "years": "2021 - 2025"
+    }
+  ],
+  "experience": [],
+  "raw_text": "linta rehman qureshi lintarehman121@gmail.com www.linkedin.com/in/linta-rehman-a5663a305 lahore/pakistan +03330405299 a b o u t m e highly motivated it student with a passion for technology seeking opportunities to apply academic knowledge in real- world environments. adept at applying technical knowledge to solve real-world problems and dedicated to continuous learning and professional growth. strong communication skills and ability to work effectively both independently and as part of a team a c a d e m i c p r o j e c t s final year project: interactify developed a social media platform with a focus on user empowerment and security, integrating innovative features such as: collaboration episodes: enhanced face authentication: secure account creation. stories with storytelling capabilities. dm group functionality: streamlined communication. utilized django rest framework for backend development and flutter for creating a responsive cross-platform user interface. cricket win predictor leveraged python and data science libraries to develop a model for predicting cricket match outcomes. analyzed historical datasets of over 100,000 rows for pattern recognition and insights. game store mobile application designed and built a cross-platform app for online game sales using flutter and firebase. implemented user authentication and real-time database functionalities. hospital networking topology topology engineered a hospital networking featuring dynamic routing to interconnect the main branch with its sub-branches. this project focused on optimizing communication and data transfer departments, between demonstrating skills in network design and management. efficiency various s k i l l s python flutter django rest framework html css, javascript sqlite, firebase e d u c a t i o n bs computer science riphah international university 2021 - 2025 c e r t i f i c a t e s cyber security: python for cyber security app development: flutter application authorized l a n g u a g e s english urdu"
+}

@@ -1,0 +1,27 @@
+{
+  "CANDIDATE_NAME": "Linta Rehman Qureshi",
+  "TARGET_JOB": "Frontend Developer",
+  "TEMPLATE_USED": "Word Template",
+  "Personal Info": "Name: Linta Rehman Qureshi\nEmail: lintarehman121@gmail.com\nPhone: 03330405299\nLinkedin: https://www.linkedin.com/in/linta-rehman-a5663a305",
+  "Profile / Summary": "**  \nResults-driven Frontend Developer with a strong foundation in web development technologies and a passion for creating seamless user experiences. Proficient in modern frontend frameworks and libraries, including React, Redux, and TypeScript, with expertise in HTML, CSS, and JavaScript for crafting responsive and visually appealing interfaces. Demonstrated ability to collaborate on complex projects, such as building innovative social media platforms and cross-platform applications, showcasing problem-solving skills and attention to detail. Adept at version control using Git and committed to delivering high-quality, scalable solutions. Continuously enhancing technical knowledge through certifications and hands-on projects, ensuring alignment with industry trends and best practices.",
+  "Skills": "- CSS\n- Git\n- HTML\n- JavaScript\n- React\n- Redux\n- TypeScript",
+  "Certifications": "\n- Flutter Application Authorized\n- Python for Cyber Security",
+  "Functional Skills": [
+    "```python\n[\"User Interface Design\"",
+    "\"Cross-Functional Collaboration\"",
+    "\"Responsive Design\"",
+    "\"Problem Solving\"",
+    "\"Attention to Detail\"",
+    "\"Time Management\"",
+    "\"Requirement Analysis\"]\n```"
+  ],
+  "Business Sector": [
+    "IT Services",
+    "Software Development"
+  ],
+  "Languages": "- English\n- Urdu",
+  "Work Experience": "**  \n*Frontend Developer (Independent Projects)*  \n*Dates: [Specify Timeframe]*  \n\n- **Interactify**  \n  - Designed and implemented the frontend architecture of a social media platform, focusing on user-centric features such as Collaboration Episodes, Stories with storytelling capabilities, and DM Group Functionality.  \n  - Utilized **React**, **Redux**, **TypeScript**, **CSS**, and **JavaScript** to create an intuitive and responsive user interface.  \n  - Collaborated with backend developers to integrate APIs built with Django REST Framework, ensuring seamless functionality.  \n\n- **Game Store Mobile Application**  \n  - Developed the frontend for a cross-platform game sales app, ensuring a smooth and engaging user experience.  \n  - Leveraged **React** and **TypeScript** to build reusable components and maintainable code.  \n  - Integrated Firebase for real-time updates and user authentication, enhancing app interactivity.  \n\n- **Cricket Win Predictor**  \n  - Designed and implemented a data visualization dashboard for the cricket prediction model using **React** and **JavaScript**.  \n  - Translated complex data insights into interactive and user-friendly visual components.  \n\n- **Hospital Networking Topology**  \n  - Created a frontend prototype to simulate and visualize the hospital's networking topology, showcasing dynamic routing and interconnectivity.  \n  - Applied **HTML**, **CSS**, and **JavaScript** to build an interactive interface for demonstrating network functionality.  \n\n**Key Achievements:**  \n- Delivered clean, maintainable, and scalable code across all projects.  \n- Demonstrated expertise in modern frontend technologies, including **React**, **Redux**, and **TypeScript**, to build user-friendly interfaces.  \n- Successfully collaborated with cross-functional teams to integrate backend APIs and ensure cohesive project outcomes.  \n- Gained hands-on experience in responsive design, state management, and real-time data handling.",
+  "Education": "**BS Computer Science**, Riphah International University (2021 - 2025)",
+  "Projects": "**Interactify**  \n*Technologies: React, Redux, TypeScript, CSS, Git*  \n- Spearheaded the frontend development of a social media platform emphasizing user empowerment and security.  \n- Translated complex backend functionalities into an intuitive and responsive user interface using React and Redux.  \n- Implemented interactive features such as Stories with storytelling capabilities and DM Group Functionality, ensuring seamless user experiences.  \n\n**Cricket Win Predictor**  \n*Technologies: JavaScript, HTML, CSS*  \n- Recreated the frontend interface for a cricket match outcome prediction tool, ensuring accessibility and responsiveness.  \n- Designed and implemented a clean, user-friendly UI to display predictive analytics and historical data insights.  \n\n**Game Store Mobile Application**  \n*Technologies: React, CSS, Git*  \n- Developed a web-based version of a cross-platform game store application, focusing on responsive design and smooth navigation.  \n- Integrated real-time user authentication and database updates into the frontend, enhancing user engagement.  \n\n**Hospital Networking Topology**  \n*Technologies: HTML, CSS, JavaScript*  \n- Built an interactive dashboard to visualize and simulate hospital networking topologies.  \n- Designed a user-centric interface to display dynamic routing data and optimize communication flow insights.",
+  "TAILORING_SCORE": "8 / 10"
+}

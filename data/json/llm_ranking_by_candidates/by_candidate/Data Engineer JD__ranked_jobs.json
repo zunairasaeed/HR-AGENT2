@@ -1,0 +1,312 @@
+{
+    "candidate": {
+        "name": "",
+        "email": "",
+        "phone": "",
+        "linkedin": ""
+    },
+    "ranked_jobs": [
+        {
+            "job_role": "Azure Data Engineer",
+            "matched": {
+                "must_have": {
+                    "matched": [
+                        "SQL",
+                        "metadata management",
+                        "data governance",
+                        "data architecture",
+                        "Python",
+                        "PowerShell",
+                        "Scala",
+                        "Databricks",
+                        "PySpark",
+                        "HDInsight"
+                    ],
+                    "score": 50
+                },
+                "nice_to_have": {
+                    "matched": [],
+                    "score": 0
+                },
+                "bonus": {
+                    "matched": [
+                        "Databricks",
+                        "PySpark",
+                        "Kafka",
+                        "HDInsight"
+                    ],
+                    "score": 8
+                }
+            },
+            "total_score": 50,
+            "bonus_score": 8,
+            "max_score_among_candidates": 50,
+            "final_percentage": 108.0,
+            "qualified": true,
+            "llm_summary": "The candidate is a strong fit for the Azure Data Engineer role. They have 3+ years of relevant experience, including designing modern data platforms, building ETL/ELT pipelines, and leveraging Azure Databricks and Spark for data processing. They also possess key skills like data architecture, metadata management, data governance, SQL, and pipeline troubleshooting. However, the resume lacks explicit mention of tools like Azure Data Factory, Synapse Analytics, Data Lake Storage Gen2, PySpark, and CI/CD experience, which may require further clarification.",
+            "rank": 1,
+            "llm_ranking_summary": "This candidate ranked highly for the Azure Data Engineer role with a strong score of 108.0, indicating they are well-qualified. Their score suggests a solid understanding of Azure data services, ETL processes, and cloud-based data solutions. If known, their strengths likely include technical expertise and relevant certifications, though any minor gaps in advanced analytics or niche tools could be areas for growth."
+        },
+        {
+            "job_role": "Software QA Engineer",
+            "matched": {
+                "must_have": {
+                    "matched": [
+                        "python"
+                    ],
+                    "score": 5
+                },
+                "nice_to_have": {
+                    "matched": [
+                        "github"
+                    ],
+                    "score": 3
+                },
+                "bonus": {
+                    "matched": [
+                        "github"
+                    ],
+                    "score": 2
+                }
+            },
+            "total_score": 8,
+            "bonus_score": 2,
+            "max_score_among_candidates": 8,
+            "final_percentage": 102.0,
+            "qualified": true,
+            "llm_summary": "This candidate is not a good fit for the \"Software QA Engineer\" role. Their expertise lies in data engineering, data modeling, ETL/ELT, and Azure tools, with no mention of skills or experience related to software testing, test automation, or QA processes such as manual testing, Selenium, or bug reporting. The required and nice-to-have skills for the QA role are entirely absent from their resume.",
+            "rank": 2,
+            "llm_ranking_summary": "This candidate ranked highly for the Software QA Engineer role with an impressive score of 102.0, indicating strong qualifications and alignment with the job requirements. Their high score suggests expertise in QA methodologies, testing tools, and possibly strong problem-solving skills. If any gaps exist, they were minimal and did not impact their qualification for the role."
+        },
+        {
+            "job_role": "Backend Developer",
+            "matched": {
+                "must_have": {
+                    "matched": [
+                        "sql"
+                    ],
+                    "score": 5
+                },
+                "nice_to_have": {
+                    "matched": [
+                        "github"
+                    ],
+                    "score": 3
+                },
+                "bonus": {
+                    "matched": [
+                        "github"
+                    ],
+                    "score": 2
+                }
+            },
+            "total_score": 8,
+            "bonus_score": 2,
+            "max_score_among_candidates": 11,
+            "final_percentage": 74.73,
+            "qualified": false,
+            "llm_summary": "This candidate is not a good fit for the Backend Developer role. While they have SQL expertise and experience with APIs, they lack key must-have skills such as Node.js, Express, authentication, microservices, and MongoDB, which are critical for backend development. Their experience is focused on Azure-based data engineering rather than backend software development.",
+            "rank": 3,
+            "llm_ranking_summary": "The candidate scored 74.73, which is slightly below the typical qualification threshold for the Backend Developer role. While their score indicates a moderate level of competency, it suggests potential gaps in key areas such as advanced backend technologies, problem-solving, or coding efficiency. Their score reflects some strengths, but likely not enough to meet the role's technical or experience requirements."
+        },
+        {
+            "job_role": "Python Developer",
+            "matched": {
+                "must_have": {
+                    "matched": [
+                        "sql",
+                        "python"
+                    ],
+                    "score": 10
+                },
+                "nice_to_have": {
+                    "matched": [
+                        "github"
+                    ],
+                    "score": 3
+                },
+                "bonus": {
+                    "matched": [
+                        "github"
+                    ],
+                    "score": 2
+                }
+            },
+            "total_score": 13,
+            "bonus_score": 2,
+            "max_score_among_candidates": 21,
+            "final_percentage": 63.9,
+            "qualified": false,
+            "llm_summary": "The candidate is not a good fit for the Python Developer role. While they have strong data engineering skills and SQL expertise, their resume lacks any mention of Python, Flask, Django, Pandas, or other must-have skills like OOP, REST API development, and unit testing. Additionally, there is no evidence of experience with the nice-to-have or bonus tools.",
+            "rank": 4,
+            "llm_ranking_summary": "The candidate scored 63.9, which is below the typical qualification threshold for the Python Developer role, leading to their \"Not Qualified\" status. While their score indicates some foundational knowledge of Python, it likely reflects gaps in key areas such as advanced programming concepts, frameworks, or problem-solving skills. Strengths or specific areas of improvement were not detailed but could be explored further for clarity."
+        },
+        {
+            "job_role": "DevOps Engineer",
+            "matched": {
+                "must_have": {
+                    "matched": [
+                        "scripting"
+                    ],
+                    "score": 5
+                },
+                "nice_to_have": {
+                    "matched": [],
+                    "score": 0
+                },
+                "bonus": {
+                    "matched": [],
+                    "score": 0
+                }
+            },
+            "total_score": 5,
+            "bonus_score": 0,
+            "max_score_among_candidates": 8,
+            "final_percentage": 62.5,
+            "qualified": false,
+            "llm_summary": "This candidate is not a good fit for the DevOps Engineer role. While they have strong expertise in data engineering and Azure tools, they lack experience with core DevOps skills such as Linux, Docker, Kubernetes, CI/CD, infrastructure as code, and scripting. Additionally, their background does not align with the must-have or nice-to-have tools and technologies listed for the role.",
+            "rank": 5,
+            "llm_ranking_summary": "The candidate scored 62.5, which is below the qualification threshold for the DevOps Engineer role, indicating a moderate to low performance. While they may have demonstrated some foundational knowledge or skills, their score suggests gaps in key areas such as automation, CI/CD pipelines, or cloud infrastructure expertise. Strengths or specific gaps were not detailed, but overall, their performance did not meet the required standard for qualification."
+        },
+        {
+            "job_role": "Full Stack Developer",
+            "matched": {
+                "must_have": {
+                    "matched": [
+                        "sql"
+                    ],
+                    "score": 5
+                },
+                "nice_to_have": {
+                    "matched": [
+                        "github"
+                    ],
+                    "score": 3
+                },
+                "bonus": {
+                    "matched": [
+                        "github"
+                    ],
+                    "score": 2
+                }
+            },
+            "total_score": 8,
+            "bonus_score": 2,
+            "max_score_among_candidates": 23,
+            "final_percentage": 36.78,
+            "qualified": false,
+            "llm_summary": "This candidate is not a good fit for the Full Stack Developer role. While they have expertise in SQL, their experience and skills are heavily focused on data engineering, data pipelines, and Azure tools, with no mention of essential full-stack development skills like JavaScript, Node.js, React, HTML, CSS, or REST APIs. Their profile lacks the core technologies and frameworks required for this role.",
+            "rank": 6,
+            "llm_ranking_summary": "The candidate scored 36.78, which is relatively low for the Full Stack Developer role, indicating they may lack key qualifications or skills required for the position. While specific strengths were not highlighted, the score suggests potential gaps in technical expertise, such as proficiency in programming languages, frameworks, or problem-solving abilities. This score places them below the qualification threshold for the role."
+        },
+        {
+            "job_role": "Data Analyst",
+            "matched": {
+                "must_have": {
+                    "matched": [
+                        "sql",
+                        "python"
+                    ],
+                    "score": 10
+                },
+                "nice_to_have": {
+                    "matched": [],
+                    "score": 0
+                },
+                "bonus": {
+                    "matched": [],
+                    "score": 0
+                }
+            },
+            "total_score": 10,
+            "bonus_score": 0,
+            "max_score_among_candidates": 29,
+            "final_percentage": 34.48,
+            "qualified": false,
+            "llm_summary": "This candidate is not a strong fit for the Data Analyst role. While they have expertise in SQL and data pipeline monitoring, they lack key must-have skills such as Excel, Power BI, Python, Pandas, and data visualization tools. Their experience is more focused on data engineering and architecture rather than analytical tasks like cleaning, visualizing, and interpreting data.",
+            "rank": 7,
+            "llm_ranking_summary": "The candidate scored 34.48, which is relatively low for the Data Analyst role, indicating they may lack key qualifications or skills required for the position. While specific strengths are not mentioned, the score suggests potential gaps in technical expertise, such as proficiency in data analysis tools, statistical knowledge, or relevant experience. This likely contributed to their not being qualified for the role."
+        },
+        {
+            "job_role": "Frontend Developer",
+            "matched": {
+                "must_have": {
+                    "matched": [],
+                    "score": 0
+                },
+                "nice_to_have": {
+                    "matched": [
+                        "github"
+                    ],
+                    "score": 3
+                },
+                "bonus": {
+                    "matched": [
+                        "github"
+                    ],
+                    "score": 2
+                }
+            },
+            "total_score": 3,
+            "bonus_score": 2,
+            "max_score_among_candidates": 15,
+            "final_percentage": 22.0,
+            "qualified": false,
+            "llm_summary": "This candidate is not a good fit for the Frontend Developer role. Their expertise lies in data engineering, data modeling, and Azure tools, with no mention of frontend development skills such as JavaScript, React, HTML, CSS, or UI/UX design. Additionally, they lack experience with the must-have and nice-to-have tools and frameworks required for this role.",
+            "rank": 8,
+            "llm_ranking_summary": "This candidate scored 22.0, which is relatively low for the Frontend Developer role, indicating they may lack some of the key skills or experience required. While specific strengths or gaps are not detailed, the score suggests potential deficiencies in areas like proficiency with frontend technologies (e.g., HTML, CSS, JavaScript) or relevant frameworks. They may need to improve their technical expertise or portfolio to qualify for this role."
+        },
+        {
+            "job_role": "Machine Learning Engineer",
+            "matched": {
+                "must_have": {
+                    "matched": [
+                        "python"
+                    ],
+                    "score": 5
+                },
+                "nice_to_have": {
+                    "matched": [],
+                    "score": 0
+                },
+                "bonus": {
+                    "matched": [],
+                    "score": 0
+                }
+            },
+            "total_score": 5,
+            "bonus_score": 0,
+            "max_score_among_candidates": 24,
+            "final_percentage": 20.83,
+            "qualified": false,
+            "llm_summary": "This candidate is not a good fit for the \"Machine Learning Engineer\" role. While they have strong expertise in data engineering, data modeling, and Azure tools, they lack experience or skills in core machine learning frameworks (e.g., TensorFlow, PyTorch, scikit-learn), programming languages like Python, and essential machine learning concepts such as model evaluation, data preprocessing, and deep learning.",
+            "rank": 9,
+            "llm_ranking_summary": "This candidate ranked low for the Machine Learning Engineer role with a score of 20.83, which is significantly below the typical qualification threshold. Their score suggests a lack of proficiency in key areas such as programming, machine learning fundamentals, or relevant experience. Specific gaps may include limited hands-on experience with ML frameworks or insufficient knowledge of algorithms, though further details would clarify the exact weaknesses."
+        },
+        {
+            "job_role": "test_multipleJDs",
+            "matched": {
+                "must_have": {
+                    "matched": [],
+                    "score": 0
+                },
+                "nice_to_have": {
+                    "matched": [],
+                    "score": 0
+                },
+                "bonus": {
+                    "matched": [],
+                    "score": 0
+                }
+            },
+            "total_score": 0,
+            "bonus_score": 0,
+            "max_score_among_candidates": 0,
+            "final_percentage": 0,
+            "qualified": false,
+            "llm_summary": "The provided job description lacks specific requirements or tools, making it impossible to determine a match. However, the candidate has strong expertise in Azure Data Engineering, ETL/ELT, data modeling, and pipeline optimization, which are commonly sought-after skills for data-related roles. If the job involves these areas, the candidate could be a good fit.",
+            "rank": 10,
+            "llm_ranking_summary": "The candidate received a score of 0, indicating a very low alignment with the requirements for the \"test_multipleJDs\" role. This suggests significant gaps in their qualifications, skills, or experience relevant to the job. No specific strengths were identified, and the candidate does not meet the minimum criteria to be considered qualified for the position."
+        }
+    ]
+}

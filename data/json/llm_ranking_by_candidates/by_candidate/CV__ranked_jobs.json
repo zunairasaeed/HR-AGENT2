@@ -1,0 +1,273 @@
+{
+    "candidate": {
+        "name": "Eman Ijaz",
+        "email": "ijaze155@gmail.com",
+        "phone": "923344001396",
+        "linkedin": "https://www.linkedin.com/in/eman-ijaz-7013ab256/"
+    },
+    "ranked_jobs": [
+        {
+            "job_role": "DevOps Engineer",
+            "matched": {
+                "must_have": {
+                    "matched": [
+                        "scripting"
+                    ],
+                    "score": 5
+                },
+                "nice_to_have": {
+                    "matched": [],
+                    "score": 0
+                },
+                "bonus": {
+                    "matched": [],
+                    "score": 0
+                }
+            },
+            "total_score": 5,
+            "bonus_score": 0,
+            "max_score_among_candidates": 8,
+            "final_percentage": 62.5,
+            "qualified": false,
+            "llm_summary": "The candidate is not a good fit for the DevOps Engineer role. While they have strong technical skills and project experience in embedded systems, microcontroller programming, and PCB design, there is no evidence of experience with Linux, Docker, Kubernetes, CI/CD, cloud platforms (e.g., AWS), or scripting, which are essential for this role.",
+            "rank": 1,
+            "llm_ranking_summary": "Eman Ijaz scored 62.5 for the DevOps Engineer role, which is below the qualification threshold, indicating a moderate performance. While the candidate may have demonstrated some foundational knowledge or skills relevant to the role, their score suggests gaps in key areas such as advanced automation, cloud infrastructure expertise, or CI/CD pipeline management. Strengths or specific gaps would need further review for clarity."
+        },
+        {
+            "job_role": "Software QA Engineer",
+            "matched": {
+                "must_have": {
+                    "matched": [
+                        "python"
+                    ],
+                    "score": 5
+                },
+                "nice_to_have": {
+                    "matched": [],
+                    "score": 0
+                },
+                "bonus": {
+                    "matched": [],
+                    "score": 0
+                }
+            },
+            "total_score": 5,
+            "bonus_score": 0,
+            "max_score_among_candidates": 8,
+            "final_percentage": 62.5,
+            "qualified": false,
+            "llm_summary": "Eman Ijaz is not a good fit for the Software QA Engineer role. While they have strong technical skills and experience in embedded systems, hardware design, and programming (e.g., Python), their resume lacks any mention of QA-specific skills such as manual testing, test automation, Selenium, bug reporting, or tools like JIRA and Postman. There is no evidence of experience in software testing or QA methodologies.",
+            "rank": 2,
+            "llm_ranking_summary": "Eman Ijaz scored 62.5, which is below the qualification threshold for the Software QA Engineer role, indicating a moderate performance. While they may have demonstrated some foundational knowledge or skills, their score suggests gaps in key areas such as advanced QA methodologies, technical expertise, or problem-solving abilities required for the role. Strengths or specific gaps were not detailed but likely contributed to the lower ranking."
+        },
+        {
+            "job_role": "Data Analyst",
+            "matched": {
+                "must_have": {
+                    "matched": [
+                        "excel",
+                        "python"
+                    ],
+                    "score": 10
+                },
+                "nice_to_have": {
+                    "matched": [],
+                    "score": 0
+                },
+                "bonus": {
+                    "matched": [],
+                    "score": 0
+                }
+            },
+            "total_score": 10,
+            "bonus_score": 0,
+            "max_score_among_candidates": 29,
+            "final_percentage": 34.48,
+            "qualified": false,
+            "llm_summary": "Eman Ijaz is not a strong fit for the Data Analyst role. While they have Python experience (evident from their Hangman game project), they lack key must-have skills such as SQL, Excel, Power BI, data cleaning, data visualization, and statistical analysis. Additionally, there is no evidence of experience with data-related tools or responsibilities in their resume.",
+            "rank": 3,
+            "llm_ranking_summary": "Eman Ijaz received a low score of 34.48, which falls below the qualification threshold for the Data Analyst role. This suggests gaps in key areas such as technical skills, data analysis proficiency, or relevant experience. While specific strengths are not detailed, improving expertise in tools like SQL, Python, or data visualization could enhance their candidacy in the future."
+        },
+        {
+            "job_role": "Python Developer",
+            "matched": {
+                "must_have": {
+                    "matched": [
+                        "python"
+                    ],
+                    "score": 5
+                },
+                "nice_to_have": {
+                    "matched": [],
+                    "score": 0
+                },
+                "bonus": {
+                    "matched": [],
+                    "score": 0
+                }
+            },
+            "total_score": 5,
+            "bonus_score": 0,
+            "max_score_among_candidates": 21,
+            "final_percentage": 23.81,
+            "qualified": false,
+            "llm_summary": "Eman Ijaz is not a good fit for the Python Developer role. While they have demonstrated programming skills through projects like the Hangman game in Python, their experience lacks the required skills such as Flask, Django, SQL, REST APIs, and unit testing. Additionally, there is no evidence of experience with data structures, algorithms, or the nice-to-have tools listed in the job description.",
+            "rank": 4,
+            "llm_ranking_summary": "Eman Ijaz scored 23.81 for the Python Developer role, which is relatively low compared to typical qualification benchmarks. This suggests gaps in key areas such as technical proficiency, problem-solving skills, or relevant experience. While specific strengths were not highlighted, the score indicates that their qualifications or performance did not meet the required standards for this position."
+        },
+        {
+            "job_role": "Machine Learning Engineer",
+            "matched": {
+                "must_have": {
+                    "matched": [
+                        "python"
+                    ],
+                    "score": 5
+                },
+                "nice_to_have": {
+                    "matched": [],
+                    "score": 0
+                },
+                "bonus": {
+                    "matched": [],
+                    "score": 0
+                }
+            },
+            "total_score": 5,
+            "bonus_score": 0,
+            "max_score_among_candidates": 24,
+            "final_percentage": 20.83,
+            "qualified": false,
+            "llm_summary": "The candidate, Eman Ijaz, does not appear to be a good fit for the Machine Learning Engineer role. While they have experience in embedded systems, hardware design, and programming (e.g., Python), their resume lacks any mention of machine learning frameworks (e.g., TensorFlow, PyTorch, Keras), data preprocessing, or model evaluation. Additionally, there is no evidence of experience in machine learning or deep learning projects.",
+            "rank": 5,
+            "llm_ranking_summary": "Eman Ijaz received a low score of 20.83, indicating significant gaps in qualifications or skills required for the Machine Learning Engineer role. This score suggests limited proficiency in key areas such as advanced machine learning techniques, programming expertise, or relevant experience. While specific strengths were not highlighted, the candidate likely needs further development to meet the role's demands."
+        },
+        {
+            "job_role": "Azure Data Engineer",
+            "matched": {
+                "must_have": {
+                    "matched": [
+                        "Python"
+                    ],
+                    "score": 5
+                },
+                "nice_to_have": {
+                    "matched": [],
+                    "score": 0
+                },
+                "bonus": {
+                    "matched": [],
+                    "score": 0
+                }
+            },
+            "total_score": 5,
+            "bonus_score": 0,
+            "max_score_among_candidates": 50,
+            "final_percentage": 10.0,
+            "qualified": false,
+            "llm_summary": "Eman Ijaz is not a good fit for the Azure Data Engineer role. The candidate lacks experience with Azure tools (e.g., Azure Data Factory, Synapse Analytics, Databricks), big data technologies (e.g., PySpark, HDInsight), and CI/CD practices (e.g., Azure DevOps, GitHub Actions). Additionally, there is no demonstrated expertise in data architecture, SQL, or scripting languages like Python or Scala for data operations.",
+            "rank": 6,
+            "llm_ranking_summary": "Eman Ijaz received a low score of 10.0 and is not qualified for the Azure Data Engineer role. This ranking likely reflects significant gaps in the required technical skills, such as Azure data services, ETL processes, or data modeling. Specific strengths were not highlighted, suggesting their expertise does not align with the job's core requirements."
+        },
+        {
+            "job_role": "test_multipleJDs",
+            "matched": {
+                "must_have": {
+                    "matched": [],
+                    "score": 0
+                },
+                "nice_to_have": {
+                    "matched": [],
+                    "score": 0
+                },
+                "bonus": {
+                    "matched": [],
+                    "score": 0
+                }
+            },
+            "total_score": 0,
+            "bonus_score": 0,
+            "max_score_among_candidates": 0,
+            "final_percentage": 0,
+            "qualified": false,
+            "llm_summary": "Without specific requirements for the job role \"test_multipleJDs,\" it is difficult to assess the candidate's fit. However, Eman Ijaz demonstrates strong technical skills in embedded systems, PCB design, and industrial automation, along with relevant project experience and internships. If the role involves hardware design, automation, or embedded systems, this candidate could be a good fit.",
+            "rank": 7,
+            "llm_ranking_summary": "Candidate Eman Ijaz received a score of 0, indicating a very low alignment with the requirements of the job role \"test_multipleJDs.\" This suggests significant gaps in qualifications, skills, or experience relevant to the role. No specific strengths were identified, which likely contributed to the candidate being marked as not qualified."
+        },
+        {
+            "job_role": "Frontend Developer",
+            "matched": {
+                "must_have": {
+                    "matched": [],
+                    "score": 0
+                },
+                "nice_to_have": {
+                    "matched": [],
+                    "score": 0
+                },
+                "bonus": {
+                    "matched": [],
+                    "score": 0
+                }
+            },
+            "total_score": 0,
+            "bonus_score": 0,
+            "max_score_among_candidates": 15,
+            "final_percentage": 0.0,
+            "qualified": false,
+            "llm_summary": "Eman Ijaz is not a good fit for the Frontend Developer role. While the candidate demonstrates strong technical skills in embedded systems, hardware design, and programming (e.g., Python), there is no evidence of experience or knowledge in essential frontend development technologies like JavaScript, React, HTML, CSS, or related tools/frameworks. The resume lacks alignment with the must-have and nice-to-have skills for this role.",
+            "rank": 8,
+            "llm_ranking_summary": "Candidate Eman Ijaz received a score of 0.0, indicating a very low evaluation for the Frontend Developer role. This suggests significant gaps in the required skills, experience, or qualifications for the position. There were likely no notable strengths demonstrated in areas such as coding proficiency, technical knowledge, or relevant project experience to meet the job's expectations."
+        },
+        {
+            "job_role": "Backend Developer",
+            "matched": {
+                "must_have": {
+                    "matched": [],
+                    "score": 0
+                },
+                "nice_to_have": {
+                    "matched": [],
+                    "score": 0
+                },
+                "bonus": {
+                    "matched": [],
+                    "score": 0
+                }
+            },
+            "total_score": 0,
+            "bonus_score": 0,
+            "max_score_among_candidates": 11,
+            "final_percentage": 0.0,
+            "qualified": false,
+            "llm_summary": "The candidate is not a good fit for the Backend Developer role. While they have strong technical skills and project experience in embedded systems, hardware design, and programming, their resume lacks any mention of backend development technologies such as Node.js, Express, SQL, REST APIs, or related tools and frameworks required for the role.",
+            "rank": 9,
+            "llm_ranking_summary": "Candidate Eman Ijaz received a score of 0.0, indicating a very low evaluation for the Backend Developer role. This suggests significant gaps in the required skills, experience, or qualifications for the position. There may have been a lack of demonstrated proficiency in backend technologies, programming languages, or relevant project experience. Without improvement in these areas, the candidate is not currently qualified for the role."
+        },
+        {
+            "job_role": "Full Stack Developer",
+            "matched": {
+                "must_have": {
+                    "matched": [],
+                    "score": 0
+                },
+                "nice_to_have": {
+                    "matched": [],
+                    "score": 0
+                },
+                "bonus": {
+                    "matched": [],
+                    "score": 0
+                }
+            },
+            "total_score": 0,
+            "bonus_score": 0,
+            "max_score_among_candidates": 23,
+            "final_percentage": 0.0,
+            "qualified": false,
+            "llm_summary": "Eman Ijaz is not a good fit for the Full Stack Developer role. While the candidate has a strong technical background in hardware design, embedded systems, and automation, there is no mention of experience or skills in web development technologies like JavaScript, Node.js, React, SQL, HTML, CSS, or related tools and frameworks required for this role.",
+            "rank": 10,
+            "llm_ranking_summary": "Candidate Eman Ijaz received a score of 0.0, indicating a very low assessment result for the Full Stack Developer role. This suggests significant gaps in the required skills, experience, or qualifications for the position. No specific strengths were noted, and the candidate does not meet the minimum criteria to be considered qualified for the role."
+        }
+    ]
+}

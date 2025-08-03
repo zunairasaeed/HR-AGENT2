@@ -1,0 +1,74 @@
+{
+    "candidate_name": "Eman Ijaz",
+    "email": "ijaze155@gmail.com",
+    "phone": "923344001396",
+    "linkedin": "https://www.linkedin.com/in/eman-ijaz-7013ab256/",
+    "target_job": "Software QA Engineer",
+    "final_match_percentage": 72.73,
+    "qualified": true,
+    "matched": {
+        "must_have": {
+            "matched": [
+                "python"
+            ],
+            "score": 5
+        },
+        "nice_to_have": {
+            "matched": [
+                "git"
+            ],
+            "score": 3
+        },
+        "bonus": {
+            "matched": [],
+            "score": 0
+        }
+    },
+    "total_score": 8,
+    "bonus_score": 0,
+    "max_score_among_candidates": 11,
+    "other_job_scores": [
+        {
+            "job_role": "DevOps Engineer",
+            "score": 5,
+            "match_percentage": 62.5,
+            "qualified": true
+        },
+        {
+            "job_role": "Machine Learning Engineer",
+            "score": 5,
+            "match_percentage": 45.45,
+            "qualified": false
+        },
+        {
+            "job_role": "Python Developer",
+            "score": 8,
+            "match_percentage": 38.1,
+            "qualified": false
+        },
+        {
+            "job_role": "Data Analyst",
+            "score": 10,
+            "match_percentage": 34.48,
+            "qualified": false
+        },
+        {
+            "job_role": "Backend Developer",
+            "score": 3,
+            "match_percentage": 27.27,
+            "qualified": false
+        },
+        {
+            "job_role": "Frontend Developer",
+            "score": 3,
+            "match_percentage": 20.0,
+            "qualified": false
+        },
+        {
+            "job_role": "Full Stack Developer",
+            "score": 3,
+            "match_percentage": 10.71,
+            "qualified": false
+        }
+    ]
+}

@@ -1,0 +1,233 @@
+{
+    "resume_file": "Barkaat Ali.json",
+    "candidate_name": "Barkaat Ali",
+    "email": "barkaatali199@gmail.com",
+    "phone": "0308-5616873",
+    "linkedin": "",
+    "matched_jobs": [
+        {
+            "job_role": "Python Developer",
+            "matched": {
+                "must_have": {
+                    "matched": [
+                        "sql",
+                        "algorithms",
+                        "python"
+                    ],
+                    "score": 15
+                },
+                "nice_to_have": {
+                    "matched": [
+                        "aws",
+                        "git"
+                    ],
+                    "score": 6
+                },
+                "bonus": {
+                    "matched": [],
+                    "score": 0
+                }
+            },
+            "total_score": 21,
+            "bonus_score": 0,
+            "max_score_among_candidates": 21,
+            "final_percentage": 100.0,
+            "qualified": true,
+            "llm_summary": "Barkaat Ali is not a good fit for the Python Developer role. While the candidate has knowledge of Python and SQL, they lack experience and key must-have skills such as Flask, Django, Pandas, OOP, REST API, and unit testing. Additionally, there are no projects or experience to demonstrate proficiency, and only one nice-to-have skill (Git) is present."
+        },
+        {
+            "job_role": "Frontend Developer",
+            "matched": {
+                "must_have": {
+                    "matched": [],
+                    "score": 0
+                },
+                "nice_to_have": {
+                    "matched": [
+                        "git"
+                    ],
+                    "score": 3
+                },
+                "bonus": {
+                    "matched": [],
+                    "score": 0
+                }
+            },
+            "total_score": 3,
+            "bonus_score": 0,
+            "max_score_among_candidates": 15,
+            "final_percentage": 20.0,
+            "qualified": false,
+            "llm_summary": "Barkaat Ali is not a good fit for the \"Frontend Developer\" role. The candidate lacks essential must-have skills such as JavaScript, React, HTML, CSS, and other frontend-specific technologies. While they have Git, which is a nice-to-have skill, their expertise and keywords are more aligned with backend or data-related roles rather than frontend development."
+        },
+        {
+            "job_role": "Data Analyst",
+            "matched": {
+                "must_have": {
+                    "matched": [
+                        "sql",
+                        "dashboards",
+                        "excel",
+                        "python"
+                    ],
+                    "score": 20
+                },
+                "nice_to_have": {
+                    "matched": [
+                        "tableau",
+                        "seaborn",
+                        "matplotlib"
+                    ],
+                    "score": 9
+                },
+                "bonus": {
+                    "matched": [],
+                    "score": 0
+                }
+            },
+            "total_score": 29,
+            "bonus_score": 0,
+            "max_score_among_candidates": 29,
+            "final_percentage": 100.0,
+            "qualified": true,
+            "llm_summary": "Barkaat Ali is not a strong match for the Data Analyst role. While he has knowledge of Python and SQL, he lacks key must-have skills such as Excel, Power BI, data cleaning, data visualization, and statistics. Additionally, he has no experience, projects, or certifications to demonstrate proficiency in these areas. His familiarity with nice-to-have tools like Tableau and Matplotlib is insufficient to compensate for the missing core requirements."
+        },
+        {
+            "job_role": "Backend Developer",
+            "matched": {
+                "must_have": {
+                    "matched": [
+                        "sql"
+                    ],
+                    "score": 5
+                },
+                "nice_to_have": {
+                    "matched": [
+                        "git",
+                        "aws"
+                    ],
+                    "score": 6
+                },
+                "bonus": {
+                    "matched": [],
+                    "score": 0
+                }
+            },
+            "total_score": 11,
+            "bonus_score": 0,
+            "max_score_among_candidates": 11,
+            "final_percentage": 100.0,
+            "qualified": true,
+            "llm_summary": "Barkaat Ali is not a good fit for the Backend Developer role. While the candidate has knowledge of SQL and Git, they lack experience with essential must-have skills such as Node.js, Express, REST API, authentication, and microservices, which are critical for backend development. Additionally, there is no relevant experience or projects demonstrating backend expertise."
+        },
+        {
+            "job_role": "Machine Learning Engineer",
+            "matched": {
+                "must_have": {
+                    "matched": [
+                        "python"
+                    ],
+                    "score": 5
+                },
+                "nice_to_have": {
+                    "matched": [
+                        "seaborn",
+                        "matplotlib"
+                    ],
+                    "score": 6
+                },
+                "bonus": {
+                    "matched": [],
+                    "score": 0
+                }
+            },
+            "total_score": 11,
+            "bonus_score": 0,
+            "max_score_among_candidates": 11,
+            "final_percentage": 100.0,
+            "qualified": true,
+            "llm_summary": "Barkaat Ali is not a good fit for the Machine Learning Engineer role. While he has Python as a must-have skill and familiarity with some nice-to-have tools like matplotlib and seaborn, he lacks essential skills and experience in machine learning, deep learning frameworks (e.g., TensorFlow, Keras), and key libraries like numpy, pandas, and scikit-learn. Additionally, he has no relevant experience, projects, or certifications to demonstrate proficiency in the required areas."
+        },
+        {
+            "job_role": "DevOps Engineer",
+            "matched": {
+                "must_have": {
+                    "matched": [
+                        "aws"
+                    ],
+                    "score": 5
+                },
+                "nice_to_have": {
+                    "matched": [
+                        "grafana"
+                    ],
+                    "score": 3
+                },
+                "bonus": {
+                    "matched": [],
+                    "score": 0
+                }
+            },
+            "total_score": 8,
+            "bonus_score": 0,
+            "max_score_among_candidates": 8,
+            "final_percentage": 100.0,
+            "qualified": true,
+            "llm_summary": "Barkaat Ali is not a good fit for the DevOps Engineer role. The candidate lacks experience and projects, and their skills do not align with the must-have requirements such as Linux, Docker, Kubernetes, CI/CD, and Terraform. While they have knowledge of AWS and Git, these alone are insufficient for the role's technical demands."
+        },
+        {
+            "job_role": "Full Stack Developer",
+            "matched": {
+                "must_have": {
+                    "matched": [
+                        "sql"
+                    ],
+                    "score": 5
+                },
+                "nice_to_have": {
+                    "matched": [
+                        "git"
+                    ],
+                    "score": 3
+                },
+                "bonus": {
+                    "matched": [],
+                    "score": 0
+                }
+            },
+            "total_score": 8,
+            "bonus_score": 0,
+            "max_score_among_candidates": 28,
+            "final_percentage": 28.57,
+            "qualified": false,
+            "llm_summary": "Barkaat Ali is not a good fit for the \"Full Stack Developer\" role. While the candidate has SQL and version control (git) knowledge, they lack essential must-have skills such as JavaScript, Node.js, React, HTML, CSS, Express, and REST API, which are critical for this position. Additionally, there is no relevant experience or projects demonstrating proficiency in full-stack development."
+        },
+        {
+            "job_role": "Software QA Engineer",
+            "matched": {
+                "must_have": {
+                    "matched": [
+                        "python"
+                    ],
+                    "score": 5
+                },
+                "nice_to_have": {
+                    "matched": [
+                        "git"
+                    ],
+                    "score": 3
+                },
+                "bonus": {
+                    "matched": [],
+                    "score": 0
+                }
+            },
+            "total_score": 8,
+            "bonus_score": 0,
+            "max_score_among_candidates": 11,
+            "final_percentage": 72.73,
+            "qualified": true,
+            "llm_summary": "Barkaat Ali is not a good fit for the Software QA Engineer role. While the candidate has Python and Git as relevant skills, they lack essential must-have qualifications such as manual testing, Selenium, test cases, bug reporting, and API testing. Additionally, there is no experience, projects, or certifications to demonstrate proficiency in QA-related tasks."
+        }
+    ]
+}

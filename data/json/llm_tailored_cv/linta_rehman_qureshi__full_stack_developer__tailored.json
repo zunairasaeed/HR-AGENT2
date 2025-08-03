@@ -1,0 +1,27 @@
+{
+  "CANDIDATE_NAME": "Linta Rehman Qureshi",
+  "TARGET_JOB": "Full Stack Developer",
+  "TEMPLATE_USED": "Word Template",
+  "Personal Info": "Name: Linta Rehman Qureshi\nEmail: lintarehman121@gmail.com\nPhone: 03330405299\nLinkedin: https://www.linkedin.com/in/linta-rehman-a5663a305",
+  "Profile / Summary": "**  \n\nVersatile and detail-oriented Full Stack Developer with a strong foundation in front-end and back-end technologies, including React, Node.js, SQL, and RESTful APIs. Proficient in building scalable, user-centric applications with expertise in authentication, Git, and Firebase. Adept at creating responsive and secure solutions, as demonstrated in projects like *Interactify*, a social media platform emphasizing user empowerment and security, and a *Game Store Mobile Application* leveraging cross-platform development.  \n\nSkilled in integrating innovative features and optimizing performance, with experience in data analysis and predictive modeling, as showcased in the *Cricket Win Predictor* project. Certified in Python for Cyber Security and Flutter Application Development, bringing a commitment to continuous learning and delivering high-quality, cutting-edge solutions.",
+  "Skills": "- Git\n- HTML/CSS\n- Node.js\n- RESTful APIs\n- React\n- SQL\n- authentication\n- css\n- firebase\n- html\n- javascript",
+  "Certifications": "\n- Flutter Application Authorized\n- Python for Cyber Security",
+  "Functional Skills": [
+    "```python\n[\"Problem Solving\"",
+    "\"Team Collaboration\"",
+    "\"Critical Thinking\"",
+    "\"Agile Development\"",
+    "\"Time Management\"",
+    "\"Attention to Detail\"",
+    "\"Adaptability\"]\n```"
+  ],
+  "Business Sector": [
+    "IT Services",
+    "Software Development"
+  ],
+  "Languages": "- English\n- Urdu",
+  "Work Experience": "**Full Stack Developer (Project-Based)**  \n*Self-Driven Projects*  \n*Dates: [Ongoing or specify timeline]*  \n\n- **Interactify**: Designed and developed a secure social media platform emphasizing user empowerment. Built backend services using Django REST Framework and implemented a responsive, cross-platform UI with Flutter. Integrated advanced features such as Face Authentication, Collaboration Episodes, and DM Group Functionality to enhance user engagement and security.  \n- **Game Store Mobile Application**: Created a cross-platform mobile application for online game sales using Flutter and Firebase. Developed user authentication and real-time database functionalities to ensure seamless user experiences and secure transactions.  \n- **Cricket Win Predictor**: Applied data science techniques and Python libraries to analyze over 100,000 rows of historical cricket data. Built a predictive model to forecast match outcomes, showcasing expertise in data analysis and machine learning.  \n- **Hospital Networking Topology**: Designed and implemented a dynamic routing-based network topology for a hospital system, connecting the main branch with sub-branches. Optimized communication and data transfer efficiency, demonstrating strong problem-solving skills in network design.  \n\n**Key Technologies:** JavaScript, React, Node.js, RESTful APIs, SQL, Firebase, Git, HTML/CSS, Authentication Systems.",
+  "Education": "**BS Computer Science**, Riphah International University (2021 - 2025)",
+  "Projects": "**Interactify**  \n- Developed a feature-rich social media platform prioritizing user empowerment and security.  \n- Integrated advanced functionalities, including Collaboration Episodes, Face Authentication, Storytelling Stories, and DM Group Chat.  \n- Utilized **Django REST Framework** for backend development and **Flutter** for creating a responsive cross-platform user interface.  \n- Emphasized secure authentication and seamless user experience throughout the platform.  \n\n**Cricket Win Predictor**  \n- Built a predictive model for cricket match outcomes using **Python** and data science libraries.  \n- Analyzed over 100,000 rows of historical data to identify patterns and generate actionable insights.  \n- Demonstrated expertise in data analysis, machine learning, and statistical modeling.  \n\n**Game Store Mobile Application**  \n- Designed and developed a cross-platform mobile app for online game sales using **Flutter** and **Firebase**.  \n- Implemented robust user authentication and real-time database functionalities to enhance user experience.  \n- Focused on creating a scalable and intuitive interface for seamless navigation and transactions.  \n\n**Hospital Networking Topology**  \n- Engineered a networking topology to interconnect a hospital's main branch with its sub-branches using dynamic routing.  \n- Optimized communication and data transfer efficiency across departments, showcasing skills in network design and management.  \n- Delivered a scalable solution to support the hospital's growing infrastructure needs.",
+  "TAILORING_SCORE": "8 / 10"
+}

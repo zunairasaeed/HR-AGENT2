@@ -1,0 +1,157 @@
+{
+    "resume_file": "eman ijaz.json",
+    "candidate_name": "Eman Ijaz",
+    "email": "ijaze155@gmail.com",
+    "phone": "923344001396",
+    "linkedin": "https://www.linkedin.com/in/eman-ijaz-7013ab256/",
+    "matched_jobs": [
+        {
+            "job_role": "Azure Data Engineer",
+            "matched": {
+                "must_have": {
+                    "matched": [
+                        "Python"
+                    ],
+                    "score": 5
+                },
+                "nice_to_have": {
+                    "matched": [],
+                    "score": 0
+                },
+                "bonus": {
+                    "matched": [],
+                    "score": 0
+                }
+            },
+            "total_score": 5,
+            "bonus_score": 0,
+            "max_score_among_candidates": 38,
+            "final_percentage": 13.16,
+            "qualified": false,
+            "llm_summary": "Eman Ijaz is not a good fit for the Azure Data Engineer role. While the candidate has experience in hardware implementation, embedded systems, and PCB design, they lack relevant skills and experience in Azure tools, data engineering, big data technologies, and scripting languages like Python or Scala for data operations. Additionally, there is no mention of experience with data pipelines, governance, or cloud platforms."
+        },
+        {
+            "job_role": "Python Developer",
+            "matched": {
+                "must_have": {
+                    "matched": [
+                        "python"
+                    ],
+                    "score": 5
+                },
+                "nice_to_have": {
+                    "matched": [],
+                    "score": 0
+                },
+                "bonus": {
+                    "matched": [],
+                    "score": 0
+                }
+            },
+            "total_score": 5,
+            "bonus_score": 0,
+            "max_score_among_candidates": 21,
+            "final_percentage": 23.81,
+            "qualified": false,
+            "llm_summary": "The candidate has Python experience demonstrated through the development of a Hangman game but lacks expertise in key must-have skills such as Flask, Django, SQL, REST APIs, OOP, and unit testing. Additionally, there is no mention of experience with data structures, algorithms, or the nice-to-have tools. Therefore, the candidate does not appear to be a strong fit for the Python Developer role."
+        },
+        {
+            "job_role": "Machine Learning Engineer",
+            "matched": {
+                "must_have": {
+                    "matched": [
+                        "python"
+                    ],
+                    "score": 5
+                },
+                "nice_to_have": {
+                    "matched": [],
+                    "score": 0
+                },
+                "bonus": {
+                    "matched": [],
+                    "score": 0
+                }
+            },
+            "total_score": 5,
+            "bonus_score": 0,
+            "max_score_among_candidates": 24,
+            "final_percentage": 20.83,
+            "qualified": false,
+            "llm_summary": "Eman Ijaz is not a good fit for the Machine Learning Engineer role. While they have experience with Python (evident from the Hangman game project), their resume lacks any mention of machine learning, deep learning, or related tools/frameworks like TensorFlow, Keras, or scikit-learn. Additionally, there is no evidence of experience in data preprocessing, model evaluation, or machine learning projects."
+        },
+        {
+            "job_role": "DevOps Engineer",
+            "matched": {
+                "must_have": {
+                    "matched": [
+                        "scripting"
+                    ],
+                    "score": 5
+                },
+                "nice_to_have": {
+                    "matched": [],
+                    "score": 0
+                },
+                "bonus": {
+                    "matched": [],
+                    "score": 0
+                }
+            },
+            "total_score": 5,
+            "bonus_score": 0,
+            "max_score_among_candidates": 8,
+            "final_percentage": 62.5,
+            "qualified": false,
+            "llm_summary": "The candidate does not appear to be a good fit for the DevOps Engineer role. While they demonstrate strong technical skills in embedded systems, hardware implementation, and PCB design, they lack experience with the core DevOps tools and technologies such as Linux, Docker, Kubernetes, CI/CD, AWS, Terraform, and scripting. There is no evidence of familiarity with infrastructure as code, networking, or monitoring tools, which are essential for this role."
+        },
+        {
+            "job_role": "Full Stack Developer",
+            "matched": {
+                "must_have": {
+                    "matched": [],
+                    "score": 0
+                },
+                "nice_to_have": {
+                    "matched": [],
+                    "score": 0
+                },
+                "bonus": {
+                    "matched": [],
+                    "score": 0
+                }
+            },
+            "total_score": 0,
+            "bonus_score": 0,
+            "max_score_among_candidates": 25,
+            "final_percentage": 0.0,
+            "qualified": false,
+            "llm_summary": "Eman Ijaz is not a good fit for the Full Stack Developer role. The candidate's resume lacks experience or skills in web development technologies such as JavaScript, Node.js, React, SQL, HTML, CSS, Express, and REST APIs, which are must-haves for the role. Their expertise lies more in embedded systems, hardware design, and automation, which are unrelated to full-stack development."
+        },
+        {
+            "job_role": "Software QA Engineer",
+            "matched": {
+                "must_have": {
+                    "matched": [
+                        "python"
+                    ],
+                    "score": 5
+                },
+                "nice_to_have": {
+                    "matched": [],
+                    "score": 0
+                },
+                "bonus": {
+                    "matched": [],
+                    "score": 0
+                }
+            },
+            "total_score": 5,
+            "bonus_score": 0,
+            "max_score_among_candidates": 8,
+            "final_percentage": 62.5,
+            "qualified": false,
+            "llm_summary": "Eman Ijaz does not appear to be a good fit for the Software QA Engineer role. While they have strong technical skills and project experience in hardware implementation, embedded systems, and Python, their resume lacks any mention of QA-specific skills such as manual testing, Selenium, test automation, bug reporting, or tools like JIRA and Postman. There is no evidence of experience in testing methodologies or frameworks required for this role."
+        }
+    ]
+}

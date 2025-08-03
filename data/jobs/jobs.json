@@ -1,0 +1,58 @@
+{
+  "Python Developer": {
+    "required_skills": ["python", "flask", "sql", "django", "pandas", "oop", "rest api", "unit testing", "data structures", "algorithms"],
+    "preferred_tools": ["github", "docker", "postgresql", "mysql", "vscode", "jira", "pytest", "git", "linux", "aws"],
+    "must_have": ["python", "flask", "sql", "django", "pandas", "oop", "rest api", "unit testing", "data structures", "algorithms"],
+    "nice_to_have": ["github", "docker", "postgresql", "mysql", "vscode", "jira", "pytest", "git", "linux", "aws"],
+    "bonus": []
+  },
+  "Frontend Developer": {
+    "required_skills": ["javascript", "react", "html", "css", "typescript", "redux", "rest api", "ui/ux", "responsive design", "webpack"],
+    "preferred_tools": ["figma", "vscode", "git", "github", "npm", "babel", "chrome devtools", "eslint", "tailwind", "storybook"],
+    "must_have": ["javascript", "react", "html", "css", "typescript", "redux", "rest api", "ui/ux", "responsive design", "webpack"],
+    "nice_to_have": ["figma", "vscode", "git", "github", "npm", "babel", "chrome devtools", "eslint", "tailwind", "storybook"],
+    "bonus": []
+  },
+  "Data Analyst": {
+    "required_skills": ["sql", "excel", "powerbi", "data cleaning", "data visualization", "statistics", "python", "pandas", "pivot tables", "dashboards"],
+    "preferred_tools": ["tableau", "matplotlib", "seaborn", "jupyter", "numpy", "google sheets", "looker", "sas", "bigquery", "postgresql"],
+    "must_have": ["sql", "excel", "powerbi", "data cleaning", "data visualization", "statistics", "python", "pandas", "pivot tables", "dashboards"],
+    "nice_to_have": ["tableau", "matplotlib", "seaborn", "jupyter", "numpy", "google sheets", "looker", "sas", "bigquery", "postgresql"],
+    "bonus": ["machine learning", "nlp", "r", "snowflake", "data warehouse"]
+  },
+  "Backend Developer": {
+    "required_skills": ["node.js", "express", "sql", "rest api", "authentication", "microservices", "caching", "error handling", "mongodb", "unit testing"],
+    "preferred_tools": ["docker", "aws", "postman", "git", "nginx", "github", "mongodb atlas", "linux", "vscode", "redis"],
+    "must_have": ["node.js", "express", "sql", "rest api", "authentication", "microservices", "caching", "error handling", "mongodb", "unit testing"],
+    "nice_to_have": ["docker", "aws", "postman", "git", "nginx", "github", "mongodb atlas", "linux", "vscode", "redis"],
+    "bonus": ["kafka", "graphql", "socket.io", "fastify", "event-driven architecture"]
+  },
+  "Machine Learning Engineer": {
+    "required_skills": ["python", "tensorflow", "numpy", "pandas", "scikit-learn", "keras", "machine learning", "deep learning", "model evaluation", "data preprocessing"],
+    "preferred_tools": ["jupyter", "mlflow", "matplotlib", "seaborn", "google colab", "aws sagemaker", "opencv", "pytorch", "huggingface", "azure ml"],
+    "must_have": ["python", "tensorflow", "numpy", "pandas", "scikit-learn", "keras", "machine learning", "deep learning", "model evaluation", "data preprocessing"],
+    "nice_to_have": ["jupyter", "mlflow", "matplotlib", "seaborn", "google colab", "aws sagemaker", "opencv", "pytorch", "huggingface", "azure ml"],
+    "bonus": []
+  },
+  "DevOps Engineer": {
+    "required_skills": ["linux", "docker", "kubernetes", "ci/cd", "infrastructure as code", "aws", "monitoring", "terraform", "scripting", "networking"],
+    "preferred_tools": ["jenkins", "ansible", "gitlab ci", "prometheus", "grafana", "nginx", "github actions", "bash", "aws cli", "azure devops"],
+    "must_have": ["linux", "docker", "kubernetes", "ci/cd", "infrastructure as code", "aws", "monitoring", "terraform", "scripting", "networking"],
+    "nice_to_have": ["jenkins", "ansible", "gitlab ci", "prometheus", "grafana", "nginx", "github actions", "bash", "aws cli", "azure devops"],
+    "bonus": []
+  },
+  "Full Stack Developer": {
+    "required_skills": ["javascript", "node.js", "react", "sql", "html", "css", "express", "rest api", "authentication", "version control"],
+    "preferred_tools": ["firebase", "mongodb", "docker", "git", "postman", "github", "vscode", "webpack", "jest", "nginx"],
+    "must_have": ["javascript", "node.js", "react", "sql", "html", "css", "express", "rest api", "authentication", "version control"],
+    "nice_to_have": ["firebase", "mongodb", "docker", "git", "postman", "github", "vscode", "webpack", "jest", "nginx"],
+    "bonus": []
+  },
+  "Software QA Engineer": {
+    "required_skills": ["manual testing", "selenium", "test cases", "bug reporting", "api testing", "regression testing", "test automation", "python", "junit", "test planning"],
+    "preferred_tools": ["jira", "postman", "testng", "github", "git", "cypress", "playwright", "vscode", "testrail", "browserstack"],
+    "must_have": ["manual testing", "selenium", "test cases", "bug reporting", "api testing", "regression testing", "test automation", "python", "junit", "test planning"],
+    "nice_to_have": ["jira", "postman", "testng", "github", "git", "cypress", "playwright", "vscode", "testrail", "browserstack"],
+    "bonus": []
+  }
+}

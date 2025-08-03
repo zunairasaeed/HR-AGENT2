@@ -1,0 +1,119 @@
+{
+  "template_name": "Word Template",
+  "sections": {
+    "Personal Info": {},
+    "Profile / Summary": "With over 7+ years of experience in the Data Domain, specializing in Microsoft Cloud technologies. I have led projects in various industries, including device calibration, food, pharmaceuticals, healthcare, banking, and retail. My expertise includes designing and developing data pipelines, implementing Medallion architecture, transitioning to Microsoft Fabric, real-time data monitoring, and integrating machine learning models. I am proficient in a wide range of tools and technologies, such as Microsoft Fabric, SQL Server, Oracle DB, Azure Git, Blob Storage, SparkSQL, PySpark, Azure Data Factory, Databricks, Power BI, Talend, Vertica, Apache Airflow, and Google BigQuery.",
+    "Skills": {
+      "Technical": [
+        "Microsoft Fabric",
+        "SQL Server",
+        "Oracle DB",
+        "Azure Git",
+        "Blob Storage",
+        "SparkSQL",
+        "PySpark",
+        "Azure Data Factory",
+        "Databricks",
+        "Power BI",
+        "Talend",
+        "Vertica",
+        "Apache Airflow",
+        "Google BigQuery"
+      ],
+      "Platforms": [],
+      "Tools": []
+    },
+    "Certifications": [
+      "Vertica Certified Professional Essentials 10 Certificate"
+    ],
+    "Functional Skills": [
+      "Agile",
+      "Scrum",
+      "Functional Analyst"
+    ],
+    "Business Sector": [
+      "IT consultancy"
+    ],
+    "Languages": [],
+    "Work Experience": [
+      {
+        "Company": "Trescal",
+        "Title": "Senior Data Engineer",
+        "Dates": "11/2024 till Present (5 months)",
+        "Responsibilities": [
+          "End-to-End Pipeline Development: Designed and developed robust pipelines to handle diverse data sources, including JSON files, SQL Server, and Oracle databases from various countries.",
+          "Leadership Role: As the sole Senior Data Engineer in a 4-person team, led the implementation of scalable data pipelines, ensuring accurate and efficient data processing.",
+          "Cross-Border Data Handling: Managed and standardized datasets from multiple countries, ensuring seamless integration and consistency.",
+          "Data Transformation & Optimization: Applied advanced data transformation techniques to streamline data pipelines and enhance performance.",
+          "Collaboration & Communication: Worked closely with team members and stakeholders to ensure technical solutions aligned with the client's business needs.",
+          "Tech Stack: Microsoft Fabric, SQL Server, Oracle DB, JSON"
+        ]
+      },
+      {
+        "Company": "AirLife",
+        "Title": "Senior Data Engineer",
+        "Dates": "10/2023 till 10/2024 (1 years)",
+        "Responsibilities": [
+          "End-to-End Fabric Solution: Led the transition of a multi-billion-dollar client from Azure tech stack (ADF, Databricks, Azure SQL, Power BI) to a unified Microsoft Fabric platform.",
+          "Integrated Platform: Designed and implemented pipelines, data activator/reflex for triggers, and notebooks for comprehensive data transformation and management.",
+          "On-Premises Integration: Seamlessly integrated on-premises databases into the Fabric environment, ensuring consistent data flow.",
+          "Optimized Reporting: Developed and optimized curated data layers, enabling robust, real-time analytics and reporting through Power BI.",
+          "Collaboration & Support: Worked closely with client stakeholders to ensure a smooth migration and provided ongoing support for system optimization.",
+          "Tech Stack: Microsoft Fabric, Azure Data Factory, Databricks, Azure SQL, Power BI, On-Premises Integration, Azure Storage Accounts, Blob, ADLS Gen2"
+        ]
+      },
+      {
+        "Company": "Subway IPC",
+        "Title": "Senior Data Engineer",
+        "Dates": "08/2022 till 09/2023 (1.1 Years)",
+        "Responsibilities": [
+          "Medallion Architecture Implementation: Designed and implemented a Medallion architecture using 12 lakehouses, divided into 3 layers (Bronze, Silver, Gold) and 3 ETL control planes.",
+          "Comprehensive Fabric Solution: Transitioned from EnterWorks and AWS to Microsoft Fabric, leveraging Blob storage and lakehouse shortcuts for data ingestion.",
+          "Data Processing & Security: Decrypted sensitive data, implemented SCD Type 3, and set up Microsoft Teams notifications for delta table updates.",
+          "Automation & Version Control: Utilized deployment pipelines and Azure Git for workspaces and version control. Implemented Fabric Accelerator for job audits and logging.",
+          "Stakeholder Impact: Enabled streamlined data processes, enhancing the client\u2019s ability to manage and utilize data across environments (DEV, UAT, PRD).",
+          "Tech Stack: Microsoft Fabric, Azure Git, Blob Storage, SCD Type 3, Microsoft Teams, EnterWorks, AWS, SparkSQL, PySpark, Spark, Azure KeyVault"
+        ]
+      },
+      {
+        "Company": "AKDN",
+        "Title": "Data Engineer",
+        "Dates": "09/2021 till 07/2022 (11 months)",
+        "Responsibilities": [
+          "Real-Time Vaccine Monitoring: Developed Power BI dashboards for real-time vaccine data monitoring, integrating health records and vaccination databases.",
+          "ETL & Reporting: Implemented ETL pipelines from Vertica, ensuring accurate and timely reporting. Optimized the data model for real-time insights.",
+          "Key Metrics: Focused on KPIs such as Vaccination Coverage, Adverse Events, Vaccine Uptake Trends, and Antenatal Care Compliance.",
+          "Advanced Data Processing: Utilized DAX for complex calculations and Power Query for data extraction and transformation.",
+          "Compliance & Governance: Adhered to strict data governance policies, ensuring compliance with healthcare regulations.",
+          "Tech Stack: Power BI, Talend, Vertica, DAX, Power Query."
+        ]
+      },
+      {
+        "Company": "Faysal Bank",
+        "Title": "Data Engineer",
+        "Dates": "08/2019 till 09/2021 (2.1 Years)",
+        "Responsibilities": [
+          "Cash Optimization Project: Collaborated on a high-impact cash optimization project, improving cash management and forecasting accuracy.",
+          "ETL & Data Pipelines: Designed and optimized SQL queries and ETL pipelines from banking systems, enabling advanced dataset creation for machine learning models.",
+          "Machine Learning Integration: Integrated ML models for cash forecasting, significantly reducing operational costs.",
+          "Technical Leadership: Played a key role in project implementation, providing expertise in data engineering and ongoing system maintenance.",
+          "Tech Stack: SQL, ETL, Machine Learning Models, Data Warehousing"
+        ]
+      },
+      {
+        "Company": "24/7",
+        "Title": "Data Engineer",
+        "Dates": "01/2017 till 07/2019 (2.7 years)",
+        "Responsibilities": [
+          "Transformative Retail Project: Orchestrated ETL workflows with Apache Airflow, designed Airflow DAGs for efficient data extraction, and implemented scalable data warehousing solutions with Google BigQuery.",
+          "Data & ML Models: Developed and optimized data retrieval models and supported ML models for inventory optimization and demand forecasting.",
+          "Cost-Effective Solutions: Contributed to the development of a credit-based inventory supply model, resulting in significant cost savings.",
+          "Data Security & Compliance: Ensured data security and compliance with industry regulations, providing ongoing support for ETL processes and ML models.",
+          "Tech Stack: Apache Airflow, Google BigQuery, ETL, Machine Learning."
+        ]
+      }
+    ],
+    "Education": [],
+    "Projects": []
+  }
+}

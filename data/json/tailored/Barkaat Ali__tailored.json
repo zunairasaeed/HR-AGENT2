@@ -1,0 +1,77 @@
+{
+    "candidate_name": "Barkaat Ali",
+    "email": "barkaatali199@gmail.com",
+    "phone": "0308-5616873",
+    "linkedin": "",
+    "target_job": "Python Developer",
+    "final_match_percentage": 100.0,
+    "qualified": true,
+    "matched": {
+        "must_have": {
+            "matched": [
+                "algorithms",
+                "python",
+                "sql"
+            ],
+            "score": 15
+        },
+        "nice_to_have": {
+            "matched": [
+                "aws",
+                "git"
+            ],
+            "score": 6
+        },
+        "bonus": {
+            "matched": [],
+            "score": 0
+        }
+    },
+    "total_score": 21,
+    "bonus_score": 0,
+    "max_score_among_candidates": 21,
+    "other_job_scores": [
+        {
+            "job_role": "Data Analyst",
+            "score": 29,
+            "match_percentage": 100.0,
+            "qualified": true
+        },
+        {
+            "job_role": "Backend Developer",
+            "score": 11,
+            "match_percentage": 100.0,
+            "qualified": true
+        },
+        {
+            "job_role": "Machine Learning Engineer",
+            "score": 11,
+            "match_percentage": 100.0,
+            "qualified": true
+        },
+        {
+            "job_role": "DevOps Engineer",
+            "score": 8,
+            "match_percentage": 100.0,
+            "qualified": true
+        },
+        {
+            "job_role": "Software QA Engineer",
+            "score": 8,
+            "match_percentage": 72.73,
+            "qualified": true
+        },
+        {
+            "job_role": "Full Stack Developer",
+            "score": 8,
+            "match_percentage": 28.57,
+            "qualified": false
+        },
+        {
+            "job_role": "Frontend Developer",
+            "score": 3,
+            "match_percentage": 20.0,
+            "qualified": false
+        }
+    ]
+}

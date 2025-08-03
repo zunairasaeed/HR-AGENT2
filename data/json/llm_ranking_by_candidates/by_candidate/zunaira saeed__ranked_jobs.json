@@ -1,0 +1,187 @@
+{
+    "candidate": {
+        "name": "Zunaira Saeed",
+        "email": "zunairasaeed988@gmail.com",
+        "phone": "92 3478404160",
+        "linkedin": "https://www.linkedin.com/in/zunaira-saeed-"
+    },
+    "ranked_jobs": [
+        {
+            "job_role": "Full Stack Developer",
+            "matched": {
+                "must_have": {
+                    "matched": [
+                        "html",
+                        "css",
+                        "sql",
+                        "javascript",
+                        "react"
+                    ],
+                    "score": 25
+                },
+                "nice_to_have": {
+                    "matched": [],
+                    "score": 0
+                },
+                "bonus": {
+                    "matched": [],
+                    "score": 0
+                }
+            },
+            "total_score": 25,
+            "bonus_score": 0,
+            "max_score_among_candidates": 25,
+            "final_percentage": 100.0,
+            "qualified": true,
+            "llm_summary": "Zunaira Saeed has relevant skills such as SQL, HTML, CSS, and React Native, which align with the job requirements for a Full Stack Developer. However, the candidate lacks key must-have skills like JavaScript, Node.js, Express, REST API, and authentication, which are critical for this role. While they demonstrate strong project experience and problem-solving abilities, they are not a strong fit due to missing core technical requirements.",
+            "rank": 1,
+            "llm_ranking_summary": "Zunaira Saeed ranked at the top with a perfect score of 100.0, indicating exceptional qualifications for the Full Stack Developer role. Their high score suggests a strong proficiency in both front-end and back-end development, likely showcasing expertise in relevant programming languages, frameworks, and problem-solving skills. No gaps are evident, making them an ideal candidate for the position."
+        },
+        {
+            "job_role": "Python Developer",
+            "matched": {
+                "must_have": {
+                    "matched": [
+                        "python",
+                        "oop",
+                        "sql"
+                    ],
+                    "score": 15
+                },
+                "nice_to_have": {
+                    "matched": [
+                        "mysql"
+                    ],
+                    "score": 3
+                },
+                "bonus": {
+                    "matched": [
+                        "mysql"
+                    ],
+                    "score": 2
+                }
+            },
+            "total_score": 18,
+            "bonus_score": 2,
+            "max_score_among_candidates": 21,
+            "final_percentage": 87.71,
+            "qualified": true,
+            "llm_summary": "Zunaira Saeed is a partial fit for the Python Developer role. They possess strong Python skills, SQL expertise, OOP knowledge, and experience in data structures and algorithms, which align with the must-have requirements. However, they lack specific experience with Flask, Django, REST APIs, and unit testing, which are critical for the role. Additionally, their familiarity with nice-to-have tools like MySQL is beneficial but limited.",
+            "rank": 2,
+            "llm_ranking_summary": "Zunaira Saeed scored 87.71, which is a high score, indicating strong qualifications for the Python Developer role. Their expertise likely includes solid programming skills, problem-solving abilities, and relevant experience in Python development. While the score suggests they are well-suited for the position, specific gaps or areas for improvement were not mentioned. Overall, they are a qualified and competitive candidate for the role."
+        },
+        {
+            "job_role": "Software QA Engineer",
+            "matched": {
+                "must_have": {
+                    "matched": [
+                        "python"
+                    ],
+                    "score": 5
+                },
+                "nice_to_have": {
+                    "matched": [],
+                    "score": 0
+                },
+                "bonus": {
+                    "matched": [],
+                    "score": 0
+                }
+            },
+            "total_score": 5,
+            "bonus_score": 0,
+            "max_score_among_candidates": 8,
+            "final_percentage": 62.5,
+            "qualified": false,
+            "llm_summary": "Zunaira Saeed has strong programming skills in Python, which is relevant for test automation, and experience in problem-solving and project management. However, the resume lacks direct experience or skills in software QA-specific tools and practices like manual testing, Selenium, test cases, bug reporting, API testing, regression testing, or test planning. Therefore, the candidate is not a strong fit for the Software QA Engineer role.",
+            "rank": 3,
+            "llm_ranking_summary": "Zunaira Saeed scored 62.5 for the Software QA Engineer role, which is below the qualification threshold, leading to a \"No\" status. While their score indicates some relevant skills or experience, it suggests gaps in key areas such as technical proficiency, QA methodologies, or problem-solving abilities. Strengths or specific competencies were not strong enough to offset these gaps."
+        },
+        {
+            "job_role": "Machine Learning Engineer",
+            "matched": {
+                "must_have": {
+                    "matched": [
+                        "python"
+                    ],
+                    "score": 5
+                },
+                "nice_to_have": {
+                    "matched": [
+                        "jupyter"
+                    ],
+                    "score": 3
+                },
+                "bonus": {
+                    "matched": [
+                        "jupyter"
+                    ],
+                    "score": 2
+                }
+            },
+            "total_score": 8,
+            "bonus_score": 2,
+            "max_score_among_candidates": 24,
+            "final_percentage": 35.33,
+            "qualified": false,
+            "llm_summary": "Zunaira Saeed demonstrates proficiency in Python and has relevant experience with Artificial Neural Networks, Jupyter Notebook, and data visualization tools like Power BI. However, the candidate lacks explicit experience with core machine learning libraries such as TensorFlow, Keras, NumPy, Pandas, and Scikit-learn, which are essential for the Machine Learning Engineer role. Therefore, while they show potential, they are not an ideal fit for this position.",
+            "rank": 4,
+            "llm_ranking_summary": "Zunaira Saeed scored 35.33, which is relatively low for the Machine Learning Engineer role, indicating they may not meet the required qualifications or skill level for this position. While specific strengths or gaps are not detailed, the score suggests potential deficiencies in key areas such as advanced ML techniques, programming proficiency, or relevant experience. Further review of their profile could clarify these gaps."
+        },
+        {
+            "job_role": "Azure Data Engineer",
+            "matched": {
+                "must_have": {
+                    "matched": [
+                        "SQL",
+                        "Python"
+                    ],
+                    "score": 10
+                },
+                "nice_to_have": {
+                    "matched": [
+                        "Power BI"
+                    ],
+                    "score": 3
+                },
+                "bonus": {
+                    "matched": [],
+                    "score": 0
+                }
+            },
+            "total_score": 13,
+            "bonus_score": 0,
+            "max_score_among_candidates": 38,
+            "final_percentage": 34.21,
+            "qualified": false,
+            "llm_summary": "Zunaira Saeed has strong foundational skills in Python, SQL, Power BI, and data visualization, which are relevant to the Azure Data Engineer role. However, the candidate lacks experience with Azure-specific tools (e.g., Azure Data Factory, Synapse Analytics, Data Lake Storage Gen2), big data technologies (e.g., Databricks, PySpark, HDInsight), and CI/CD pipelines. Additionally, there is no mention of hands-on experience with data architecture, governance, or scripting in Scala/PowerShell, making them a poor fit for this role.",
+            "rank": 5,
+            "llm_ranking_summary": "Zunaira Saeed scored 34.21 for the Azure Data Engineer role, which is relatively low compared to typical qualification benchmarks for this position. This score suggests gaps in key skills or experience required for the role, such as proficiency in Azure services, data engineering tools, or relevant certifications. While specific strengths were not highlighted, the overall score indicates the need for further development in core technical competencies."
+        },
+        {
+            "job_role": "DevOps Engineer",
+            "matched": {
+                "must_have": {
+                    "matched": [],
+                    "score": 0
+                },
+                "nice_to_have": {
+                    "matched": [],
+                    "score": 0
+                },
+                "bonus": {
+                    "matched": [],
+                    "score": 0
+                }
+            },
+            "total_score": 0,
+            "bonus_score": 0,
+            "max_score_among_candidates": 8,
+            "final_percentage": 0.0,
+            "qualified": false,
+            "llm_summary": "Zunaira Saeed's resume does not demonstrate experience or skills in key DevOps tools and technologies such as Linux, Docker, Kubernetes, CI/CD, Terraform, AWS, or scripting, which are essential for the role. While they have strong programming and project management skills, their background lacks direct relevance to DevOps practices and infrastructure management. Therefore, they are not a good fit for the DevOps Engineer role.",
+            "rank": 6,
+            "llm_ranking_summary": "Zunaira Saeed received a score of 0.0 for the DevOps Engineer role, indicating a lack of alignment with the job requirements. This low score suggests significant gaps in essential skills, experience, or qualifications needed for the position. No specific strengths were identified to offset these deficiencies, leading to the candidate being unqualified for the role."
+        }
+    ]
+}

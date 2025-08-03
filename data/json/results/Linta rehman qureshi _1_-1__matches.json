@@ -1,0 +1,213 @@
+{
+    "resume_file": "Linta rehman qureshi _1_-1.json",
+    "candidate_name": "Linta Rehman Qureshi",
+    "email": "lintarehman121@gmail.com",
+    "phone": "03330405299",
+    "linkedin": "https://www.linkedin.com/in/linta-rehman-a5663a305",
+    "matched_jobs": [
+        {
+            "job_role": "Python Developer",
+            "matched": {
+                "must_have": {
+                    "matched": [
+                        "django",
+                        "sql",
+                        "python"
+                    ],
+                    "score": 15
+                },
+                "nice_to_have": {
+                    "matched": [],
+                    "score": 0
+                },
+                "bonus": {
+                    "matched": [],
+                    "score": 0
+                }
+            },
+            "total_score": 15,
+            "bonus_score": 0,
+            "max_score_among_candidates": 21,
+            "final_percentage": 71.43,
+            "qualified": true
+        },
+        {
+            "job_role": "Frontend Developer",
+            "matched": {
+                "must_have": {
+                    "matched": [
+                        "javascript",
+                        "css",
+                        "html"
+                    ],
+                    "score": 15
+                },
+                "nice_to_have": {
+                    "matched": [],
+                    "score": 0
+                },
+                "bonus": {
+                    "matched": [],
+                    "score": 0
+                }
+            },
+            "total_score": 15,
+            "bonus_score": 0,
+            "max_score_among_candidates": 15,
+            "final_percentage": 100.0,
+            "qualified": true
+        },
+        {
+            "job_role": "Data Analyst",
+            "matched": {
+                "must_have": {
+                    "matched": [
+                        "sql",
+                        "python"
+                    ],
+                    "score": 10
+                },
+                "nice_to_have": {
+                    "matched": [],
+                    "score": 0
+                },
+                "bonus": {
+                    "matched": [],
+                    "score": 0
+                }
+            },
+            "total_score": 10,
+            "bonus_score": 0,
+            "max_score_among_candidates": 29,
+            "final_percentage": 34.48,
+            "qualified": false
+        },
+        {
+            "job_role": "Backend Developer",
+            "matched": {
+                "must_have": {
+                    "matched": [
+                        "authentication",
+                        "sql"
+                    ],
+                    "score": 10
+                },
+                "nice_to_have": {
+                    "matched": [],
+                    "score": 0
+                },
+                "bonus": {
+                    "matched": [],
+                    "score": 0
+                }
+            },
+            "total_score": 10,
+            "bonus_score": 0,
+            "max_score_among_candidates": 11,
+            "final_percentage": 90.91,
+            "qualified": true
+        },
+        {
+            "job_role": "Machine Learning Engineer",
+            "matched": {
+                "must_have": {
+                    "matched": [
+                        "python"
+                    ],
+                    "score": 5
+                },
+                "nice_to_have": {
+                    "matched": [],
+                    "score": 0
+                },
+                "bonus": {
+                    "matched": [],
+                    "score": 0
+                }
+            },
+            "total_score": 5,
+            "bonus_score": 0,
+            "max_score_among_candidates": 11,
+            "final_percentage": 45.45,
+            "qualified": false
+        },
+        {
+            "job_role": "DevOps Engineer",
+            "matched": {
+                "must_have": {
+                    "matched": [
+                        "networking"
+                    ],
+                    "score": 5
+                },
+                "nice_to_have": {
+                    "matched": [],
+                    "score": 0
+                },
+                "bonus": {
+                    "matched": [],
+                    "score": 0
+                }
+            },
+            "total_score": 5,
+            "bonus_score": 0,
+            "max_score_among_candidates": 8,
+            "final_percentage": 62.5,
+            "qualified": true
+        },
+        {
+            "job_role": "Full Stack Developer",
+            "matched": {
+                "must_have": {
+                    "matched": [
+                        "sql",
+                        "javascript",
+                        "authentication",
+                        "html",
+                        "css"
+                    ],
+                    "score": 25
+                },
+                "nice_to_have": {
+                    "matched": [
+                        "firebase"
+                    ],
+                    "score": 3
+                },
+                "bonus": {
+                    "matched": [],
+                    "score": 0
+                }
+            },
+            "total_score": 28,
+            "bonus_score": 0,
+            "max_score_among_candidates": 28,
+            "final_percentage": 100.0,
+            "qualified": true
+        },
+        {
+            "job_role": "Software QA Engineer",
+            "matched": {
+                "must_have": {
+                    "matched": [
+                        "python"
+                    ],
+                    "score": 5
+                },
+                "nice_to_have": {
+                    "matched": [],
+                    "score": 0
+                },
+                "bonus": {
+                    "matched": [],
+                    "score": 0
+                }
+            },
+            "total_score": 5,
+            "bonus_score": 0,
+            "max_score_among_candidates": 11,
+            "final_percentage": 45.45,
+            "qualified": false
+        }
+    ]
+}

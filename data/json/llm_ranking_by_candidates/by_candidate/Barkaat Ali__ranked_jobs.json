@@ -1,0 +1,315 @@
+{
+    "candidate": {
+        "name": "Barkaat Ali",
+        "email": "barkaatali199@gmail.com",
+        "phone": "0308-5616873",
+        "linkedin": ""
+    },
+    "ranked_jobs": [
+        {
+            "job_role": "Azure Data Engineer",
+            "matched": {
+                "must_have": {
+                    "matched": [
+                        "Python",
+                        "Azure Synapse Analytics",
+                        "HDInsight",
+                        "SQL",
+                        "PowerShell",
+                        "Azure Data Factory",
+                        "Databricks"
+                    ],
+                    "score": 35
+                },
+                "nice_to_have": {
+                    "matched": [
+                        "Power BI"
+                    ],
+                    "score": 3
+                },
+                "bonus": {
+                    "matched": [
+                        "HDInsight",
+                        "Azure Data Factory",
+                        "Databricks",
+                        "Azure Synapse Analytics"
+                    ],
+                    "score": 8
+                }
+            },
+            "total_score": 38,
+            "bonus_score": 8,
+            "max_score_among_candidates": 38,
+            "final_percentage": 108.0,
+            "qualified": true,
+            "llm_summary": "The candidate is a strong fit for the Azure Data Engineer role. They have extensive experience with Azure tools such as Azure Data Factory, Azure Synapse Analytics, Azure SQL, and Data Lake Storage, as well as expertise in data architecture, metadata management, and governance. They also possess key skills like Python, PowerShell, Databricks, and CI/CD knowledge (Git), though they lack explicit mention of PySpark, Scala, or Azure DevOps/GitHub Actions. Overall, their experience aligns well with the job requirements.",
+            "rank": 1,
+            "llm_ranking_summary": "Barkaat Ali ranked highly for the Azure Data Engineer role with a strong score of 108.0, indicating a high level of qualification. This suggests a solid understanding of Azure technologies, data engineering principles, and relevant technical skills. While the exact strengths or gaps are not detailed, the score reflects strong alignment with the job requirements, making them a competitive candidate."
+        },
+        {
+            "job_role": "Data Analyst",
+            "matched": {
+                "must_have": {
+                    "matched": [
+                        "dashboards",
+                        "sql",
+                        "excel",
+                        "python"
+                    ],
+                    "score": 20
+                },
+                "nice_to_have": {
+                    "matched": [
+                        "matplotlib",
+                        "tableau",
+                        "seaborn"
+                    ],
+                    "score": 9
+                },
+                "bonus": {
+                    "matched": [
+                        "matplotlib",
+                        "tableau",
+                        "seaborn"
+                    ],
+                    "score": 6
+                }
+            },
+            "total_score": 29,
+            "bonus_score": 6,
+            "max_score_among_candidates": 29,
+            "final_percentage": 106.0,
+            "qualified": true,
+            "llm_summary": "Barkaat Ali is a strong fit for the Data Analyst role. He possesses must-have skills such as SQL, Excel, Power BI, Python, data cleaning, data visualization, and statistics, along with experience in building dashboards and using tools like Pandas and pivot tables. Additionally, his familiarity with nice-to-have tools like Tableau, Matplotlib, and Seaborn further strengthens his alignment with the role.",
+            "rank": 2,
+            "llm_ranking_summary": "Barkaat Ali ranked well for the Data Analyst role with a high score of 106.0, indicating strong qualifications for the position. Their score suggests proficiency in key areas such as data analysis, problem-solving, and technical skills. If known, any gaps or areas for improvement were minimal, solidifying their status as a qualified candidate."
+        },
+        {
+            "job_role": "Machine Learning Engineer",
+            "matched": {
+                "must_have": {
+                    "matched": [
+                        "python",
+                        "deep learning",
+                        "machine learning"
+                    ],
+                    "score": 15
+                },
+                "nice_to_have": {
+                    "matched": [
+                        "seaborn",
+                        "azure ml",
+                        "matplotlib"
+                    ],
+                    "score": 9
+                },
+                "bonus": {
+                    "matched": [
+                        "seaborn",
+                        "azure ml",
+                        "matplotlib"
+                    ],
+                    "score": 6
+                }
+            },
+            "total_score": 24,
+            "bonus_score": 6,
+            "max_score_among_candidates": 24,
+            "final_percentage": 106.0,
+            "qualified": true,
+            "llm_summary": "The candidate has strong expertise in Python, machine learning, deep learning, and data preprocessing, which align with the must-have requirements. However, they lack explicit experience with TensorFlow, Keras, and scikit-learn, which are critical for the role. While they possess related skills like Azure ML and tools such as Matplotlib and Seaborn, the absence of key frameworks makes them a partial fit for the Machine Learning Engineer role.",
+            "rank": 3,
+            "llm_ranking_summary": "Barkaat Ali ranked highly for the Machine Learning Engineer role with a strong score of 106.0, indicating excellent qualifications. This high score suggests proficiency in key areas such as machine learning algorithms, programming, and problem-solving. While specific strengths or gaps aren't detailed, the qualification status confirms they meet or exceed the role's requirements."
+        },
+        {
+            "job_role": "Python Developer",
+            "matched": {
+                "must_have": {
+                    "matched": [
+                        "python",
+                        "algorithms",
+                        "sql"
+                    ],
+                    "score": 15
+                },
+                "nice_to_have": {
+                    "matched": [
+                        "aws",
+                        "git"
+                    ],
+                    "score": 6
+                },
+                "bonus": {
+                    "matched": [
+                        "aws",
+                        "git"
+                    ],
+                    "score": 4
+                }
+            },
+            "total_score": 21,
+            "bonus_score": 4,
+            "max_score_among_candidates": 21,
+            "final_percentage": 104.0,
+            "qualified": true,
+            "llm_summary": "The candidate has strong Python skills and experience with SQL, data structures, and algorithms, which align with the must-have requirements. However, they lack specific mention of Flask, Django, REST API, and unit testing, which are critical for the role. While they have experience with AWS and Git (nice-to-have/bonus tools), their profile does not demonstrate direct alignment with the core requirements of a Python Developer. Therefore, the candidate is not a strong fit for this role.",
+            "rank": 4,
+            "llm_ranking_summary": "Barkaat Ali ranked highly for the Python Developer role with an impressive score of 104.0, which is well above the typical qualification threshold. This indicates strong technical proficiency and alignment with the job requirements. The candidate likely demonstrated expertise in Python programming and related skills, though no specific gaps were noted in the evaluation."
+        },
+        {
+            "job_role": "Backend Developer",
+            "matched": {
+                "must_have": {
+                    "matched": [
+                        "sql"
+                    ],
+                    "score": 5
+                },
+                "nice_to_have": {
+                    "matched": [
+                        "git",
+                        "aws"
+                    ],
+                    "score": 6
+                },
+                "bonus": {
+                    "matched": [
+                        "git",
+                        "aws"
+                    ],
+                    "score": 4
+                }
+            },
+            "total_score": 11,
+            "bonus_score": 4,
+            "max_score_among_candidates": 11,
+            "final_percentage": 104.0,
+            "qualified": true,
+            "llm_summary": "Barkaat Ali is not a strong match for the Backend Developer role. While he has experience with SQL, AWS, Git, and NoSQL databases like MongoDB, he lacks key must-have skills such as Node.js, Express, REST API development, authentication, microservices, and caching. His expertise is more aligned with data engineering and analytics rather than backend development.",
+            "rank": 5,
+            "llm_ranking_summary": "Barkaat Ali ranked highly for the Backend Developer role with an impressive score of 104.0, indicating strong qualifications. This high score suggests proficiency in key backend development skills, such as programming, database management, or system design. While specific strengths or gaps aren't detailed, the score reflects a well-rounded and competitive candidate for the position."
+        },
+        {
+            "job_role": "DevOps Engineer",
+            "matched": {
+                "must_have": {
+                    "matched": [
+                        "aws"
+                    ],
+                    "score": 5
+                },
+                "nice_to_have": {
+                    "matched": [
+                        "grafana"
+                    ],
+                    "score": 3
+                },
+                "bonus": {
+                    "matched": [
+                        "grafana"
+                    ],
+                    "score": 2
+                }
+            },
+            "total_score": 8,
+            "bonus_score": 2,
+            "max_score_among_candidates": 8,
+            "final_percentage": 102.0,
+            "qualified": true,
+            "llm_summary": "Barkaat Ali is not a strong fit for the DevOps Engineer role. While the candidate has extensive experience with AWS, monitoring tools like Grafana, and scripting, they lack key DevOps-specific skills such as Linux, Docker, Kubernetes, CI/CD, Terraform, and infrastructure as code. Their expertise is more aligned with data engineering and analytics rather than DevOps practices.",
+            "rank": 6,
+            "llm_ranking_summary": "Barkaat Ali ranked highly for the DevOps Engineer role with an impressive score of 102.0, indicating strong qualifications and expertise. This high score suggests proficiency in key DevOps skills such as CI/CD, cloud infrastructure, and automation. If known, specific strengths like advanced scripting or containerization expertise likely contributed to the high ranking, with no significant gaps apparent."
+        },
+        {
+            "job_role": "Software QA Engineer",
+            "matched": {
+                "must_have": {
+                    "matched": [
+                        "python"
+                    ],
+                    "score": 5
+                },
+                "nice_to_have": {
+                    "matched": [
+                        "git"
+                    ],
+                    "score": 3
+                },
+                "bonus": {
+                    "matched": [
+                        "git"
+                    ],
+                    "score": 2
+                }
+            },
+            "total_score": 8,
+            "bonus_score": 2,
+            "max_score_among_candidates": 8,
+            "final_percentage": 102.0,
+            "qualified": true,
+            "llm_summary": "Barkaat Ali is not a good fit for the \"Software QA Engineer\" role. While the candidate has strong Python skills and experience with data engineering, machine learning, and cloud technologies, there is no mention of QA-specific skills like manual testing, Selenium, test cases, bug reporting, or test automation. Additionally, tools like JUnit, TestNG, or Cypress are absent from their skill set.",
+            "rank": 7,
+            "llm_ranking_summary": "Barkaat Ali ranked highly for the Software QA Engineer role with an impressive score of 102.0, indicating strong qualifications and expertise. This high score suggests proficiency in QA methodologies, testing tools, and attention to detail. If available, their specific strengths, such as automation testing or problem-solving skills, likely contributed to their ranking, with no significant gaps noted."
+        },
+        {
+            "job_role": "Full Stack Developer",
+            "matched": {
+                "must_have": {
+                    "matched": [
+                        "sql"
+                    ],
+                    "score": 5
+                },
+                "nice_to_have": {
+                    "matched": [
+                        "git"
+                    ],
+                    "score": 3
+                },
+                "bonus": {
+                    "matched": [
+                        "git"
+                    ],
+                    "score": 2
+                }
+            },
+            "total_score": 8,
+            "bonus_score": 2,
+            "max_score_among_candidates": 25,
+            "final_percentage": 34.0,
+            "qualified": false,
+            "llm_summary": "Barkaat Ali is not a good fit for the Full Stack Developer role. While the candidate has strong expertise in data engineering, analytics, and cloud platforms, they lack experience with essential Full Stack Developer skills such as JavaScript, Node.js, React, HTML, CSS, and Express. Their focus is on data pipelines, machine learning, and cloud infrastructure rather than web development.",
+            "rank": 8,
+            "llm_ranking_summary": "Barkaat Ali scored 34.0 for the Full Stack Developer role, which is relatively low compared to typical qualification thresholds. This score suggests gaps in key technical skills or experience required for the position, such as proficiency in programming languages, frameworks, or problem-solving abilities. While specific strengths are not mentioned, the overall score indicates significant room for improvement to meet the role's demands."
+        },
+        {
+            "job_role": "Frontend Developer",
+            "matched": {
+                "must_have": {
+                    "matched": [],
+                    "score": 0
+                },
+                "nice_to_have": {
+                    "matched": [
+                        "git"
+                    ],
+                    "score": 3
+                },
+                "bonus": {
+                    "matched": [
+                        "git"
+                    ],
+                    "score": 2
+                }
+            },
+            "total_score": 3,
+            "bonus_score": 2,
+            "max_score_among_candidates": 15,
+            "final_percentage": 22.0,
+            "qualified": false,
+            "llm_summary": "Barkaat Ali is not a good fit for the Frontend Developer role. While the candidate has strong expertise in data engineering, analytics, and cloud technologies, they lack experience and skills in frontend development, such as JavaScript, React, HTML, CSS, TypeScript, and UI/UX design. Their resume does not demonstrate familiarity with the required tools or frameworks for this role.",
+            "rank": 9,
+            "llm_ranking_summary": "Barkaat Ali scored 22.0, which is relatively low for the Frontend Developer role, resulting in disqualification. This score likely reflects gaps in key technical skills such as proficiency in modern frontend frameworks (e.g., React, Angular) or coding efficiency. While specific strengths are not mentioned, the score suggests limited alignment with the role's requirements."
+        }
+    ]
+}

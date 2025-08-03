@@ -1,0 +1,130 @@
+{
+  "filename": "ZSResume.pdf",
+  "name": "Zunaira Saeed",
+  "email": "zunairasaeed988@gmail.com",
+  "phone": "92 3478404160",
+  "linkedin": "https://www.linkedin.com/in/zunaira-saeed-",
+  "github": "",
+  "certificates": [],
+  "skills": [
+    "Java",
+    "Python",
+    "SQL",
+    "MySQL",
+    "SSMS",
+    "HTML",
+    "CSS",
+    "Bootstrap",
+    "React Native",
+    "Jupyter Notebook",
+    "MATLAB",
+    "Power BI",
+    "Google Cloud Platform",
+    "Microsoft Office",
+    "Proteus",
+    "SolidWorks",
+    "Wireshark",
+    "Artificial Neural Networks",
+    "Object-Oriented Programming",
+    "DSA",
+    "Circuit Design",
+    "Digital Logic Design",
+    "GUI Development",
+    "Web Application Development",
+    "Project Management",
+    "Problem Solving",
+    "Communication"
+  ],
+  "tools": [
+    "Google Cloud Platform",
+    "Microsoft Office",
+    "Proteus",
+    "SolidWorks",
+    "Wireshark",
+    "Power BI",
+    "Jupyter Notebook"
+  ],
+  "technologies": [
+    "Artificial Neural Networks",
+    "Object-Oriented Programming",
+    "Digital Logic Design",
+    "GUI Development",
+    "Web Application Development"
+  ],
+  "certifications": [],
+  "projects": [
+    {
+      "title": "Bank Management System",
+      "description": "Developed an OOP-based banking system with GUI to manage customer accounts and transactions using SQL database integration."
+    },
+    {
+      "title": "Hospital Management System",
+      "description": "Designed a GUI-based hospital system to manage patient records and appointments using local file handling for backend storage."
+    },
+    {
+      "title": "Customer Engagement System",
+      "description": "Built a database management and visualization system to organize supplier/dealer data and generate detailed reports and charts via Power BI and a web dashboard."
+    },
+    {
+      "title": "Customer Churn Prediction",
+      "description": "Trained an Artificial Neural Network on telecom industry data to predict churn, with a web interface for visualizing churn rate, retention strategies, and predictive analytics."
+    },
+    {
+      "title": "Kids Phonics Game",
+      "description": "Developed a responsive phonics learning app for children (ages 1–7) based on the U.S. curriculum, using recorded voice data and multi-platform deployment (web, app, desktop)."
+    },
+    {
+      "title": "Water Level Indicator",
+      "description": "Designed a 10-level water tank indicator using basic electronic components with an alarm system that activates when the tank is full."
+    },
+    {
+      "title": "DC Charger (5V)",
+      "description": "Built a 5V DC charger using a step-down transformer and rectification process to supply regulated power output for small devices."
+    },
+    {
+      "title": "Number Guessing Game Circuit",
+      "description": "Implemented a number guessing game using digital ICs with a built-in timer and LED feedback system to simulate random number generation and limited guess attempts."
+    }
+  ],
+  "education": [
+    {
+      "degree": "BSc.",
+      "field": "Computer Engineering",
+      "institute": "University of Engineering and Technology, Lahore",
+      "years": "03/2025 - 03/2026"
+    },
+    {
+      "degree": "FSc.",
+      "field": "Pre-Engineering",
+      "institute": "Punjab Group of Colleges",
+      "years": "08/2020 - 05/2022"
+    }
+  ],
+  "experience": [
+    {
+      "company": "ACM UET",
+      "role": "Director General",
+      "years": "03/2025 - 03/2026",
+      "description": "Collaborated with teams, organizing high-impact events and mentoring, facilitated workshops on technology for students."
+    },
+    {
+      "company": "ACM UET",
+      "role": "Cloud Computing Lead",
+      "years": "02/2024 - 02/2025",
+      "description": "Led the Cloud Computing team, mentoring members and conducting workshops and promoting hands-on learning."
+    },
+    {
+      "company": "ACM UET",
+      "role": "Event Organizer",
+      "years": "01/2025 - 2026",
+      "description": "Co-organized UTS 6.0, secured sponsorships, and ensured event success."
+    },
+    {
+      "company": "Cybersecurity Society",
+      "role": "Community Outreach Head",
+      "years": "01/2025 - 02/2026",
+      "description": "Built partnerships with organizations to create opportunities for students."
+    }
+  ],
+  "raw_text": "zunaira saeed bsc. computer engineering student (devops/cloud computing/ai&dataanlaysis/cybersecuirty/software development) +92 3478404160 zunairasaeed988@gmail.com www.linkedin.com/in/zunaira-saeed- 52544262/ khadija hall uet lahore, lahore, pakistan summary i am zunaira saeed, a bsc. computer engineering student in my final yea r at uet lahore, with a strong foundation in problem-solving and a proactive mindset. i enjoy tackling challenges through logical thinking and effective communication, and i value collaboration and continuous learning. i aim to apply my technical knowledge and initiative in meaningful, real-world projects. experience acm uet post: director general acm uet is a vibrant community for students passionate about technology • collaborated with teams, organizing high-impact events and mentoring, facilitated workshops on technology for students. post: cloud computing lead acm uet is involved in technology advancement and education • led the cloud computing team, mentoring members and conducting workshops amd promote hand on learning. post: event organizer organized competitions and events for skills showcasing • co-organized uts 6.0 ,secure sponsorships and ensure event success. cybersecurity society post: community outreach head • built partnerships with organizations to create opportunities for students education university of engineering and technology, lahore [cgpa-3.257] bsc.computer engineering punjab group of colleges [fsc.-93.728] fsc. pre-engineering projects lahore, pakistan 03/2025 - 03/2026 02/2024 - 02/2025 01/2025 - 2026 lahore, pakistan 01/2025 - 02/2026 lahore,pakistan 12/2022 - 05/2026 kharain, pakistan 08/2020 - 05/2022 bank management system (java, mysql, html, css) developed an oop-based banking system with gui to manage customer accounts and transactions using sql database integration. hospital management system (python, html, css, file handling) designed a gui-based hospital system to manage patient records and appointments using local file handling for backend storage. customer engagement system (mysql, ssms,javascript, power bi, bootstrap, html, css) built a database management and visualization system to organize supplier/dealer data and generate detailed reports and charts via power bi and a web dashboard. customer churn prediction (ai model) (python, jupyter notebook, ann, kaggle, html, css, bootstrap) trained an artificial neural network on telecom industry data to predict churn, with a web interface for visualizing churn rate, retention strategies, and predictive analytics. kids phonics game (react native, sound data processing,responsive app) developed a responsive phonics learning app for children (ages 1–7) based on the u.s. curriculum, using recorded voice data and multi-platform deployment (web, app, desktop). water level indicator (ics, transistors, capacitors, buzzer circuit) designed a 10-level water tank indicator using basic electronic components with an alarm system that activates when the tank is full. dc charger (5v) (transformer, rectifier circuit) built a 5v dc charger using a step-down transformer and rectification process to supply regulated power output for small devices. number guessing game circuit (digital logic design, ics, leds, timer) implemented a number guessing game using digital ics with a built-in timer and led feedback system to simulate random number generation and limited guess attempts. skills java, python, sql, mysql, ssms, html, css, bootstrap, react native, jupyter notebook, matlab, power bi, google cloud platform (gcp), microsoft office, proteus, solidworks, wireshark, artificial neural networks (ann), object-oriented programming (oop), dsa,circuit design, digital logic design, gui development, web application development, project management, problem solving, communication."
+}

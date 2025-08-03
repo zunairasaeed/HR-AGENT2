@@ -1,0 +1,74 @@
+{
+    "candidate_name": "Linta Rehman Qureshi",
+    "email": "lintarehman121@gmail.com",
+    "phone": "03330405299",
+    "linkedin": "https://www.linkedin.com/in/linta-rehman-a5663a305",
+    "target_job": "Frontend Developer",
+    "final_match_percentage": 100.0,
+    "qualified": true,
+    "matched": {
+        "must_have": {
+            "matched": [
+                "css",
+                "javascript",
+                "html"
+            ],
+            "score": 15
+        },
+        "nice_to_have": {
+            "matched": [],
+            "score": 0
+        },
+        "bonus": {
+            "matched": [],
+            "score": 0
+        }
+    },
+    "total_score": 15,
+    "bonus_score": 0,
+    "max_score_among_candidates": 15,
+    "other_job_scores": [
+        {
+            "job_role": "Full Stack Developer",
+            "score": 28,
+            "match_percentage": 100.0,
+            "qualified": true
+        },
+        {
+            "job_role": "Backend Developer",
+            "score": 10,
+            "match_percentage": 90.91,
+            "qualified": true
+        },
+        {
+            "job_role": "Python Developer",
+            "score": 15,
+            "match_percentage": 71.43,
+            "qualified": true
+        },
+        {
+            "job_role": "DevOps Engineer",
+            "score": 5,
+            "match_percentage": 62.5,
+            "qualified": true
+        },
+        {
+            "job_role": "Machine Learning Engineer",
+            "score": 5,
+            "match_percentage": 45.45,
+            "qualified": false
+        },
+        {
+            "job_role": "Software QA Engineer",
+            "score": 5,
+            "match_percentage": 45.45,
+            "qualified": false
+        },
+        {
+            "job_role": "Data Analyst",
+            "score": 10,
+            "match_percentage": 34.48,
+            "qualified": false
+        }
+    ]
+}

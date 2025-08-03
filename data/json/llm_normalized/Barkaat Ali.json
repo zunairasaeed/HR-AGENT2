@@ -1,0 +1,186 @@
+{
+  "filename": "Barkaat Ali.pdf",
+  "name": "Barkaat Ali",
+  "email": "barkaatali199@gmail.com",
+  "phone": "0308-5616873",
+  "linkedin": "",
+  "github": "",
+  "certificates": [],
+  "skills": [
+    "Python",
+    "C++",
+    "C#",
+    "SQL",
+    "NoSQL",
+    "AWS Redshift",
+    "AWS Glue",
+    "AWS Lambda",
+    "AWS Kinesis",
+    "AWS Athena",
+    "AWS EC2",
+    "Azure Data Factory",
+    "Azure Synapse Analytics",
+    "Azure SQL Database",
+    "Azure Databricks",
+    "Azure Stream Analytics",
+    "Azure HDInsight",
+    "Azure ML",
+    "IAM",
+    "Azure Data Lake Storage",
+    "Azure Blob Storage",
+    "Fabric Analytics Engineer",
+    "Power BI",
+    "Airflow",
+    "Data Warehousing",
+    "ETL",
+    "ELT",
+    "Machine Learning",
+    "Deep Learning",
+    "Spark",
+    "Hadoop",
+    "Hive",
+    "MLOps",
+    "Tableau",
+    "Tableau Prep",
+    "Excel",
+    "Feature Engineering",
+    "Hypothesis Testing",
+    "EDA",
+    "LLM Fine-Tuning",
+    "NoSQL Databases",
+    "SQL Server",
+    "Data Integration",
+    "Data Modeling",
+    "PowerShell",
+    "Snowflake",
+    "Hubspot",
+    "Databricks",
+    "Matplotlib",
+    "Seaborn",
+    "Grafana",
+    "Git"
+  ],
+  "tools": [
+    "Power BI",
+    "Tableau",
+    "Tableau Prep",
+    "Excel",
+    "AWS Redshift",
+    "AWS Glue",
+    "AWS Lambda",
+    "AWS Kinesis",
+    "AWS Athena",
+    "AWS EC2",
+    "Azure Data Factory",
+    "Azure Synapse Analytics",
+    "Azure SQL Database",
+    "Azure Databricks",
+    "Azure Stream Analytics",
+    "Azure HDInsight",
+    "Azure ML",
+    "Azure Data Lake Storage",
+    "Azure Blob Storage",
+    "Databricks",
+    "Snowflake",
+    "Git",
+    "Grafana"
+  ],
+  "technologies": [
+    "Python",
+    "C++",
+    "C#",
+    "SQL",
+    "NoSQL",
+    "Spark",
+    "Hadoop",
+    "Hive",
+    "MLOps",
+    "Machine Learning",
+    "Deep Learning",
+    "LLM Fine-Tuning",
+    "EDA",
+    "Feature Engineering",
+    "Hypothesis Testing",
+    "Data Warehousing",
+    "ETL",
+    "ELT"
+  ],
+  "certifications": [
+    "Certified Data Scientist Associate",
+    "Microsoft Certified: Azure Data Engineer Associate",
+    "Microsoft Certified: Azure AI Engineer Associate",
+    "Microsoft Certified: Fabric Analytics Engineer Associate",
+    "GCP Certified: Professional Data Engineer",
+    "Data Management in Databricks",
+    "Improving Query Performance in SQL Server",
+    "Data Science with Tableau"
+  ],
+  "projects": [
+    {
+      "title": "Dynamic Malware Analysis Using ML",
+      "description": ""
+    },
+    {
+      "title": "Inventory Analysis in Tableau",
+      "description": ""
+    },
+    {
+      "title": "HR Analytics in Power BI",
+      "description": "Worked on credit risk modeling using Python, Google Data Studio, and Tableau Prep. Financial report data was extracted using Azure Form Recognizer, cleaned with Python and Tableau Prep, and utilized to create a predictive model with deep learning algorithms. This streamlined process reduced manual data punching by 60%, allowing analysts to concentrate on extracting meaningful insights."
+    },
+    {
+      "title": "Intelligent Agent Deployment with Reasoning in Vertex AI",
+      "description": ""
+    },
+    {
+      "title": "Synapse-to-Fabric Modernization Project",
+      "description": ""
+    },
+    {
+      "title": "Lakehouse Architecture with AWS Glue, S3, and Athena",
+      "description": ""
+    },
+    {
+      "title": "Credit Risk Data Engineering Prediction Pipeline",
+      "description": ""
+    },
+    {
+      "title": "Middilion Data Architecture in Azure Synapse",
+      "description": ""
+    }
+  ],
+  "education": [],
+  "experience": [
+    {
+      "company": "Ascend Analytics",
+      "role": "Data & Analytics Engineer",
+      "years": "December 2024 – Present",
+      "description": "Streamlined the modernization of data warehouse infrastructure (AS/400) to Azure Cloud, reducing costs by 80%. Re-architected the Enterprise Data Model (EDM), transitioning to a star schema, improving query performance. Designed and implemented an audit logging system in Azure SQL. Consolidated 400+ datasets in Azure Data Factory into 37 reusable datasets. Reduced the number of pipelines from 700 to 250 by developing dynamic, metadata-driven pipelines."
+    },
+    {
+      "company": "Dotlabs",
+      "role": "Data Engineer",
+      "years": "June 2024 – Present",
+      "description": "Developed scalable data pipelines for the Hopi Housing Service and Sunderstorm Cannabis Company. Engineered data transformations using AWS Glue and Parquet, reducing memory usage and query costs. Built an interactive KPI dashboard in Amazon QuickSight. Designed a Redshift data warehouse, optimizing the data model for faster querying and reporting."
+    },
+    {
+      "company": "VaporVM",
+      "role": "Data Scientist",
+      "years": "July 2023 – June 2024",
+      "description": "Automated daily Excel reporting tasks using Python. Implemented machine learning models in a distributed environment. Established and managed a Cloudera cluster. Conducted ETL/ELT operations for data warehousing, contributing to the creation of an OLAP system."
+    },
+    {
+      "company": "PACRA",
+      "role": "Data Scientist",
+      "years": "June 2022 – August 2022",
+      "description": "Worked on credit risk modeling using Python, Google Data Studio, and Tableau Prep. Extracted financial report data using Azure Form Recognizer and created predictive models with deep learning algorithms."
+    },
+    {
+      "company": "Contract.PK",
+      "role": "Data Engineer",
+      "years": "August 2022 – September 2022",
+      "description": "Engineered robust ETL pipelines using Python. Architected an OLAP system with Python and SQL, boosting query performance. Established rigorous data consistency and concurrency controls."
+    }
+  ],
+  "raw_text": "barkaat ali empowering data with microsoft certiﬁed expertise in ai and analytics @ barkaatali199@gmail.com mobile : 0308-5616873 (cid:239) barkaat-ali § barkaat-ali * lahore experience data & analytics engineer ascend analytics z december 2024 –present * lahore, hybrid • streamlined the modernization of data warehouse infrastructure (as/400) to azure cloud, shifting infrastructure from capex to opex and reduc- ing costs by 80%. • re-architected the enterprise data model (edm), transitioning from a complex fact constellation schema to a star schema, signiﬁcantly improv- ing query performance and simplifying analytics. • designed and implemented an audit logging system in azure sql to monitor and analyze activity, enhancing data governance and compli- ance. • consolidated 400+ datasets in azure data factory into 37 reusable, pa- rameterized datasets, streamlining the etl architecture and eliminating redundant data sources. • reduced the number of pipelines from 700 to 250 by developing dy- namic, metadata-driven pipelines, greatly improving maintainability and scalability. data engineer dotlabs z june 2024 –present * lahore, onsite project: hopi housing service • developed a scalable data pipeline to capture real-time changes for the hopi housing service, enabling eﬃcient data processing and insightful reporting. • transformed json streaming data to a structured format using kinesis firehose, storing the results in parquet, reducing query costs by 70%. • implemented a dynamodb trigger using a lambda function to capture changes and store them in s3, sending real-time updates to slack via sns. • built an interactive kpi dashboard in amazon quicksight to present data insights to stakeholders for better decision-making. • engineered complex data transformations using aws glue, optimizing the processing logic and storing results in parquet, reducing memory usage by 40%. • automated weekly crawlers in aws glue to handle evolving schemas, ensuring the data catalog remains agile and up-to-date with the latest data. • leveraged athena for querying the results in the data catalog and inte- grated with quicksight for advanced data visualizations and reporting. project: data warehousing for sunderstorm cannabis company • developed a scalable data pipeline for sunderstorm, using aws glue to process data from apis and store it in amazon s3, reducing manual eﬀort by 40%. • implemented scd type 2 to track historical changes, improving report- ing accuracy by 25%. • designed a redshift data warehouse, optimizing the data model for faster querying and reporting, improving query performance by 30%. skills python/c++/c# sql/nosql aws redshift aws glue aws lambda aws kinesis aws athena aws ec2 azure data factory azure synapse analytics azure sql database azure databricks azure stream analytics azure hdinsight azure ml iam azure data lake storage azure blob storage fabric analytics engineer power bi airﬂow data warehousing etl elt machine learning deep learning spark hadoop hive mlops tableau tableau prep excel feature engineering hypothesis testing eda llm fine-tuning nosql databases sql server data integration data modeling powershell snowﬂake hubspot databricks matplotlib/seaborn grafana git achievements (cid:140) won ﬁrst position in research poster competition in itec 2024 (cid:140) among the top 5 students in the class to receive a laptop under youth scheme. certification (cid:155) certiﬁed data scientist associate click here to view (cid:155) microsoft certiﬁed: azure data engineer associate click here to view (cid:155) microsoft certiﬁed: azure ai engineer associate click here to view (cid:155) microsoft certiﬁed: fabric analytics engineer associate click here to view • built and optimized stored procedures for data management in redshift, reducing manual intervention by 30%. • created a mechanism for data management in redshift, improving data accuracy and reducing inconsistencies by 20%. • engineered data transformations using aws glue and parquet format, cutting query costs by 70% and boosting eﬃciency by 35%. • automated data ingestion and transformation, reducing manual handling by 40% and enabling real-time updates. • leveraged aws redshift for data-driven reports, enabling stakeholders to make decisions 50% faster. data scientist vaporvm z july 2023 – june 2024 * lahore, onsite • automated daily excel reporting tasks using python, resulting in a signif- icant reduction in processing time from 1 hour to just 2 minutes. • implemented and executed machine learning models in a distributed en- vironment, substantially decreasing the time required for model training. • established and managed a cloudera cluster, eﬀectively assigning tasks and responsibilities across multiple nodes for optimal performance. • conducted etl/elt operations for data warehousing, enabling eﬃcient data transformation and loading, ultimately contributing to the creation of an olap system. data scientist pacra z june 2022 – august 2022 * lahore, onsite (cid:155) gcp certiﬁed: professional data engi- neer click here to view (cid:155) data management in databricks click here to view (cid:155) improving query performance in sql server click here to view (cid:155) data science with tableau click here to view volunteer work † general secretary - acm uet nc 05/2023 - present secured a partnership with datacamp to provide 50+ students with $500 worth of subscriptions. projects dynamic malware analysis using ml inventory analysis in tableau • worked on credit risk modeling using python, google data studio,azure hr analytics in powe bi and tableau prep. • financial report data was extracted using azure form recognizer, cleaned with python and tableau prep, and utilized to create a predictive model with deep learning algorithms. this streamlined process reduced manual data punching by 60%, allowing analysts to concentrate on extracting meaningful insights. • evaluated its performance. created interactive dashboards in google data studio to visualize the insights. data engineer contract.pk z august 2022 –september 2022 * lahore, remote • engineered robust etl pipelines using python, optimizing extraction from sql and nosql databases and ensuring precise data transforma- tion for downstream analytics. • architected an olap system with python and sql by designing opti- mized schemas, tables, and indexes to boost query performance and support scalable analytics. • established rigorous data consistency and concurrency controls, en- abling reliable transaction management and high-volume data process- ing. intelligent agent deployment with reasoning in vertex ai synapse-to-fabric modernization project lakehouse architecture with aws glue, s3, and athena credit risk data engineering prediction pipeline middilion data architecture in azure synapse"
+}
